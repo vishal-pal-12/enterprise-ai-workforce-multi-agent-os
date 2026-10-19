@@ -1,0 +1,137 @@
+product_id,product_name,product_category,product_subcategory,warehouse_id,warehouse_location,warehouse_description,unit_cost_usd,list_price_usd,unit_margin_pct,safety_stock_level,reorder_point,quantity_on_hand,quantity_reserved,reorder_needed_flag,last_restocked_date,source_system
+BK-M68B-42,"Mountain-100 Black, 42",Bikes,Mountain Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1898.0,2499.0,24.05,40,20,53,12,0,2024-11-04,Microsoft AdventureWorks Inventory OLTP
+BK-M68B-42,"Mountain-100 Black, 42",Bikes,Mountain Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1898.0,2499.0,24.05,40,20,37,6,0,2024-10-28,Microsoft AdventureWorks Inventory OLTP
+BK-M68B-42,"Mountain-100 Black, 42",Bikes,Mountain Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1898.0,2499.0,24.05,40,20,47,6,0,2024-11-04,Microsoft AdventureWorks Inventory OLTP
+BK-M68B-42,"Mountain-100 Black, 42",Bikes,Mountain Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1898.0,2499.0,24.05,40,20,21,3,0,2024-10-21,Microsoft AdventureWorks Inventory OLTP
+BK-M68B-46,"Mountain-100 Black, 46",Bikes,Mountain Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1898.0,2499.0,24.05,35,18,21,1,0,2024-11-24,Microsoft AdventureWorks Inventory OLTP
+BK-M68B-46,"Mountain-100 Black, 46",Bikes,Mountain Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1898.0,2499.0,24.05,35,18,33,2,0,2024-10-09,Microsoft AdventureWorks Inventory OLTP
+BK-M68B-46,"Mountain-100 Black, 46",Bikes,Mountain Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1898.0,2499.0,24.05,35,18,21,2,0,2024-10-23,Microsoft AdventureWorks Inventory OLTP
+BK-M68B-46,"Mountain-100 Black, 46",Bikes,Mountain Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1898.0,2499.0,24.05,35,18,37,8,0,2024-10-17,Microsoft AdventureWorks Inventory OLTP
+BK-M68S-42,"Mountain-100 Silver, 42",Bikes,Mountain Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1912.0,2525.0,24.28,45,20,42,4,0,2024-11-02,Microsoft AdventureWorks Inventory OLTP
+BK-M68S-42,"Mountain-100 Silver, 42",Bikes,Mountain Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1912.0,2525.0,24.28,45,20,45,9,0,2024-11-26,Microsoft AdventureWorks Inventory OLTP
+BK-M68S-42,"Mountain-100 Silver, 42",Bikes,Mountain Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1912.0,2525.0,24.28,45,20,27,6,0,2024-11-22,Microsoft AdventureWorks Inventory OLTP
+BK-M68S-42,"Mountain-100 Silver, 42",Bikes,Mountain Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1912.0,2525.0,24.28,45,20,35,6,0,2024-11-10,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-48,"Road-150 Red, 48",Bikes,Road Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,2171.29,3578.27,39.32,30,15,32,5,0,2024-11-18,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-48,"Road-150 Red, 48",Bikes,Road Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,2171.29,3578.27,39.32,30,15,16,3,0,2024-10-16,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-48,"Road-150 Red, 48",Bikes,Road Bikes,WH-GUR-03,Haryana,Northern Distribution Center,2171.29,3578.27,39.32,30,15,13,1,1,2024-11-07,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-48,"Road-150 Red, 48",Bikes,Road Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,2171.29,3578.27,39.32,30,15,28,5,0,2024-10-14,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-52,"Road-150 Red, 52",Bikes,Road Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,2171.29,3578.27,39.32,28,15,20,2,0,2024-10-13,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-52,"Road-150 Red, 52",Bikes,Road Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,2171.29,3578.27,39.32,28,15,35,3,0,2024-10-04,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-52,"Road-150 Red, 52",Bikes,Road Bikes,WH-GUR-03,Haryana,Northern Distribution Center,2171.29,3578.27,39.32,28,15,16,3,0,2024-11-08,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-52,"Road-150 Red, 52",Bikes,Road Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,2171.29,3578.27,39.32,28,15,36,3,0,2024-11-25,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-56,"Road-150 Red, 56",Bikes,Road Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,2171.29,3578.27,39.32,25,12,16,3,0,2024-10-20,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-56,"Road-150 Red, 56",Bikes,Road Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,2171.29,3578.27,39.32,25,12,12,1,1,2024-11-06,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-56,"Road-150 Red, 56",Bikes,Road Bikes,WH-GUR-03,Haryana,Northern Distribution Center,2171.29,3578.27,39.32,25,12,12,2,1,2024-11-19,Microsoft AdventureWorks Inventory OLTP
+BK-R93R-56,"Road-150 Red, 56",Bikes,Road Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,2171.29,3578.27,39.32,25,12,19,1,0,2024-11-23,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-50,"Touring-1000 Yellow, 50",Bikes,Touring Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1481.93,2384.07,37.84,35,18,46,8,0,2024-11-22,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-50,"Touring-1000 Yellow, 50",Bikes,Touring Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1481.93,2384.07,37.84,35,18,24,3,0,2024-11-27,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-50,"Touring-1000 Yellow, 50",Bikes,Touring Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1481.93,2384.07,37.84,35,18,45,2,0,2024-11-27,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-50,"Touring-1000 Yellow, 50",Bikes,Touring Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1481.93,2384.07,37.84,35,18,32,4,0,2024-11-20,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-54,"Touring-1000 Yellow, 54",Bikes,Touring Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1481.93,2384.07,37.84,30,15,18,4,0,2024-11-27,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-54,"Touring-1000 Yellow, 54",Bikes,Touring Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1481.93,2384.07,37.84,30,15,29,6,0,2024-10-13,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-54,"Touring-1000 Yellow, 54",Bikes,Touring Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1481.93,2384.07,37.84,30,15,32,3,0,2024-11-14,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-54,"Touring-1000 Yellow, 54",Bikes,Touring Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1481.93,2384.07,37.84,30,15,25,4,0,2024-11-12,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-58,"Touring-1000 Yellow, 58",Bikes,Touring Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1481.93,2384.07,37.84,25,12,29,4,0,2024-11-22,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-58,"Touring-1000 Yellow, 58",Bikes,Touring Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1481.93,2384.07,37.84,25,12,22,5,0,2024-11-18,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-58,"Touring-1000 Yellow, 58",Bikes,Touring Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1481.93,2384.07,37.84,25,12,15,2,0,2024-11-27,Microsoft AdventureWorks Inventory OLTP
+BK-T79Y-58,"Touring-1000 Yellow, 58",Bikes,Touring Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1481.93,2384.07,37.84,25,12,32,2,0,2024-10-31,Microsoft AdventureWorks Inventory OLTP
+BK-M82S-44,"Mountain-200 Silver, 44",Bikes,Mountain Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1117.86,2071.42,46.03,50,25,63,12,0,2024-11-10,Microsoft AdventureWorks Inventory OLTP
+BK-M82S-44,"Mountain-200 Silver, 44",Bikes,Mountain Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1117.86,2071.42,46.03,50,25,38,6,0,2024-11-29,Microsoft AdventureWorks Inventory OLTP
+BK-M82S-44,"Mountain-200 Silver, 44",Bikes,Mountain Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1117.86,2071.42,46.03,50,25,40,4,0,2024-10-10,Microsoft AdventureWorks Inventory OLTP
+BK-M82S-44,"Mountain-200 Silver, 44",Bikes,Mountain Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1117.86,2071.42,46.03,50,25,36,6,0,2024-10-31,Microsoft AdventureWorks Inventory OLTP
+BK-M82S-48,"Mountain-200 Silver, 48",Bikes,Mountain Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1117.86,2071.42,46.03,45,22,35,8,0,2024-10-11,Microsoft AdventureWorks Inventory OLTP
+BK-M82S-48,"Mountain-200 Silver, 48",Bikes,Mountain Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1117.86,2071.42,46.03,45,22,52,10,0,2024-10-26,Microsoft AdventureWorks Inventory OLTP
+BK-M82S-48,"Mountain-200 Silver, 48",Bikes,Mountain Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1117.86,2071.42,46.03,45,22,51,5,0,2024-11-29,Microsoft AdventureWorks Inventory OLTP
+BK-M82S-48,"Mountain-200 Silver, 48",Bikes,Mountain Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1117.86,2071.42,46.03,45,22,58,3,0,2024-10-26,Microsoft AdventureWorks Inventory OLTP
+BK-R50B-52,"Road-350-W Yellow, 52",Bikes,Road Bikes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,1082.02,1700.99,36.39,40,20,31,6,0,2024-10-04,Microsoft AdventureWorks Inventory OLTP
+BK-R50B-52,"Road-350-W Yellow, 52",Bikes,Road Bikes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,1082.02,1700.99,36.39,40,20,18,2,1,2024-10-12,Microsoft AdventureWorks Inventory OLTP
+BK-R50B-52,"Road-350-W Yellow, 52",Bikes,Road Bikes,WH-GUR-03,Haryana,Northern Distribution Center,1082.02,1700.99,36.39,40,20,42,9,0,2024-10-14,Microsoft AdventureWorks Inventory OLTP
+BK-R50B-52,"Road-350-W Yellow, 52",Bikes,Road Bikes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,1082.02,1700.99,36.39,40,20,29,2,0,2024-11-14,Microsoft AdventureWorks Inventory OLTP
+FR-M94B-44,"ML Mountain Frame-W - Black, 44",Components,Frames,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,850.0,1364.5,37.71,60,30,50,12,0,2024-11-20,Microsoft AdventureWorks Inventory OLTP
+FR-M94B-44,"ML Mountain Frame-W - Black, 44",Components,Frames,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,850.0,1364.5,37.71,60,30,67,4,0,2024-10-02,Microsoft AdventureWorks Inventory OLTP
+FR-M94B-44,"ML Mountain Frame-W - Black, 44",Components,Frames,WH-GUR-03,Haryana,Northern Distribution Center,850.0,1364.5,37.71,60,30,40,8,0,2024-11-03,Microsoft AdventureWorks Inventory OLTP
+FR-M94B-44,"ML Mountain Frame-W - Black, 44",Components,Frames,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,850.0,1364.5,37.71,60,30,66,8,0,2024-10-13,Microsoft AdventureWorks Inventory OLTP
+FR-M94B-48,"ML Mountain Frame-W - Black, 48",Components,Frames,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,850.0,1364.5,37.71,55,28,29,2,0,2024-11-21,Microsoft AdventureWorks Inventory OLTP
+FR-M94B-48,"ML Mountain Frame-W - Black, 48",Components,Frames,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,850.0,1364.5,37.71,55,28,59,7,0,2024-10-23,Microsoft AdventureWorks Inventory OLTP
+FR-M94B-48,"ML Mountain Frame-W - Black, 48",Components,Frames,WH-GUR-03,Haryana,Northern Distribution Center,850.0,1364.5,37.71,55,28,55,7,0,2024-11-21,Microsoft AdventureWorks Inventory OLTP
+FR-M94B-48,"ML Mountain Frame-W - Black, 48",Components,Frames,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,850.0,1364.5,37.71,55,28,37,3,0,2024-11-09,Microsoft AdventureWorks Inventory OLTP
+FR-R92R-58,"HL Road Frame - Red, 58",Components,Frames,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,895.0,1431.5,37.48,50,25,66,8,0,2024-10-07,Microsoft AdventureWorks Inventory OLTP
+FR-R92R-58,"HL Road Frame - Red, 58",Components,Frames,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,895.0,1431.5,37.48,50,25,57,6,0,2024-11-12,Microsoft AdventureWorks Inventory OLTP
+FR-R92R-58,"HL Road Frame - Red, 58",Components,Frames,WH-GUR-03,Haryana,Northern Distribution Center,895.0,1431.5,37.48,50,25,33,7,0,2024-11-21,Microsoft AdventureWorks Inventory OLTP
+FR-R92R-58,"HL Road Frame - Red, 58",Components,Frames,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,895.0,1431.5,37.48,50,25,59,9,0,2024-11-20,Microsoft AdventureWorks Inventory OLTP
+CS-6583,LL Crankset Alloy 175mm,Components,Drivetrain,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,113.22,175.49,35.48,120,50,55,7,0,2024-11-09,Microsoft AdventureWorks Inventory OLTP
+CS-6583,LL Crankset Alloy 175mm,Components,Drivetrain,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,113.22,175.49,35.48,120,50,83,13,0,2024-10-11,Microsoft AdventureWorks Inventory OLTP
+CS-6583,LL Crankset Alloy 175mm,Components,Drivetrain,WH-GUR-03,Haryana,Northern Distribution Center,113.22,175.49,35.48,120,50,64,7,0,2024-11-13,Microsoft AdventureWorks Inventory OLTP
+CS-6583,LL Crankset Alloy 175mm,Components,Drivetrain,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,113.22,175.49,35.48,120,50,125,8,0,2024-10-09,Microsoft AdventureWorks Inventory OLTP
+CS-9011,HL HollowTech Crankset 172.5mm,Components,Drivetrain,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,225.0,379.99,40.79,80,35,77,16,0,2024-10-16,Microsoft AdventureWorks Inventory OLTP
+CS-9011,HL HollowTech Crankset 172.5mm,Components,Drivetrain,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,225.0,379.99,40.79,80,35,71,6,0,2024-10-06,Microsoft AdventureWorks Inventory OLTP
+CS-9011,HL HollowTech Crankset 172.5mm,Components,Drivetrain,WH-GUR-03,Haryana,Northern Distribution Center,225.0,379.99,40.79,80,35,53,3,0,2024-11-14,Microsoft AdventureWorks Inventory OLTP
+CS-9011,HL HollowTech Crankset 172.5mm,Components,Drivetrain,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,225.0,379.99,40.79,80,35,95,12,0,2024-11-26,Microsoft AdventureWorks Inventory OLTP
+BB-7421,ML Bottom Bracket Sealed,Components,Bottom Brackets,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,45.12,79.99,43.59,150,60,131,13,0,2024-11-18,Microsoft AdventureWorks Inventory OLTP
+BB-7421,ML Bottom Bracket Sealed,Components,Bottom Brackets,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,45.12,79.99,43.59,150,60,57,7,1,2024-11-01,Microsoft AdventureWorks Inventory OLTP
+BB-7421,ML Bottom Bracket Sealed,Components,Bottom Brackets,WH-GUR-03,Haryana,Northern Distribution Center,45.12,79.99,43.59,150,60,117,18,0,2024-11-23,Microsoft AdventureWorks Inventory OLTP
+BB-7421,ML Bottom Bracket Sealed,Components,Bottom Brackets,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,45.12,79.99,43.59,150,60,106,22,0,2024-11-21,Microsoft AdventureWorks Inventory OLTP
+RD-2309,Shimano Compatible Rear Derailleur 11-Spd,Components,Derailleurs,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,68.4,119.5,42.76,140,55,62,3,0,2024-10-11,Microsoft AdventureWorks Inventory OLTP
+RD-2309,Shimano Compatible Rear Derailleur 11-Spd,Components,Derailleurs,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,68.4,119.5,42.76,140,55,152,11,0,2024-10-08,Microsoft AdventureWorks Inventory OLTP
+RD-2309,Shimano Compatible Rear Derailleur 11-Spd,Components,Derailleurs,WH-GUR-03,Haryana,Northern Distribution Center,68.4,119.5,42.76,140,55,91,17,0,2024-10-19,Microsoft AdventureWorks Inventory OLTP
+RD-2309,Shimano Compatible Rear Derailleur 11-Spd,Components,Derailleurs,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,68.4,119.5,42.76,140,55,58,9,0,2024-10-02,Microsoft AdventureWorks Inventory OLTP
+BR-4902,Dual Pivot Hydraulic Disc Brake Caliper,Components,Brakes,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,78.5,134.9,41.81,160,65,158,8,0,2024-11-25,Microsoft AdventureWorks Inventory OLTP
+BR-4902,Dual Pivot Hydraulic Disc Brake Caliper,Components,Brakes,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,78.5,134.9,41.81,160,65,82,14,0,2024-10-09,Microsoft AdventureWorks Inventory OLTP
+BR-4902,Dual Pivot Hydraulic Disc Brake Caliper,Components,Brakes,WH-GUR-03,Haryana,Northern Distribution Center,78.5,134.9,41.81,160,65,74,17,0,2024-10-07,Microsoft AdventureWorks Inventory OLTP
+BR-4902,Dual Pivot Hydraulic Disc Brake Caliper,Components,Brakes,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,78.5,134.9,41.81,160,65,158,11,0,2024-10-31,Microsoft AdventureWorks Inventory OLTP
+WH-5201,Aero Double-Wall Alloy 700c Wheelset,Components,Wheels,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,185.0,310.0,40.32,70,30,29,6,1,2024-11-02,Microsoft AdventureWorks Inventory OLTP
+WH-5201,Aero Double-Wall Alloy 700c Wheelset,Components,Wheels,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,185.0,310.0,40.32,70,30,73,9,0,2024-11-28,Microsoft AdventureWorks Inventory OLTP
+WH-5201,Aero Double-Wall Alloy 700c Wheelset,Components,Wheels,WH-GUR-03,Haryana,Northern Distribution Center,185.0,310.0,40.32,70,30,48,6,0,2024-11-07,Microsoft AdventureWorks Inventory OLTP
+WH-5201,Aero Double-Wall Alloy 700c Wheelset,Components,Wheels,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,185.0,310.0,40.32,70,30,39,3,0,2024-11-12,Microsoft AdventureWorks Inventory OLTP
+TI-9102,Kevlar Reinforced Tubeless Tyre 700x28c,Components,Tires,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,24.5,45.0,45.56,300,120,209,16,0,2024-10-21,Microsoft AdventureWorks Inventory OLTP
+TI-9102,Kevlar Reinforced Tubeless Tyre 700x28c,Components,Tires,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,24.5,45.0,45.56,300,120,249,24,0,2024-11-11,Microsoft AdventureWorks Inventory OLTP
+TI-9102,Kevlar Reinforced Tubeless Tyre 700x28c,Components,Tires,WH-GUR-03,Haryana,Northern Distribution Center,24.5,45.0,45.56,300,120,221,50,0,2024-10-30,Microsoft AdventureWorks Inventory OLTP
+TI-9102,Kevlar Reinforced Tubeless Tyre 700x28c,Components,Tires,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,24.5,45.0,45.56,300,120,121,12,0,2024-11-21,Microsoft AdventureWorks Inventory OLTP
+HL-U509-R,"Sport-100 Helmet, Red",Accessories,Helmets,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,13.08,34.99,62.62,250,100,169,30,0,2024-10-09,Microsoft AdventureWorks Inventory OLTP
+HL-U509-R,"Sport-100 Helmet, Red",Accessories,Helmets,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,13.08,34.99,62.62,250,100,189,33,0,2024-10-09,Microsoft AdventureWorks Inventory OLTP
+HL-U509-R,"Sport-100 Helmet, Red",Accessories,Helmets,WH-GUR-03,Haryana,Northern Distribution Center,13.08,34.99,62.62,250,100,193,10,0,2024-11-05,Microsoft AdventureWorks Inventory OLTP
+HL-U509-R,"Sport-100 Helmet, Red",Accessories,Helmets,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,13.08,34.99,62.62,250,100,238,28,0,2024-10-26,Microsoft AdventureWorks Inventory OLTP
+HL-U509-B,"Sport-100 Helmet, Blue",Accessories,Helmets,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,13.08,34.99,62.62,240,100,238,28,0,2024-10-24,Microsoft AdventureWorks Inventory OLTP
+HL-U509-B,"Sport-100 Helmet, Blue",Accessories,Helmets,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,13.08,34.99,62.62,240,100,185,23,0,2024-11-18,Microsoft AdventureWorks Inventory OLTP
+HL-U509-B,"Sport-100 Helmet, Blue",Accessories,Helmets,WH-GUR-03,Haryana,Northern Distribution Center,13.08,34.99,62.62,240,100,94,15,1,2024-11-28,Microsoft AdventureWorks Inventory OLTP
+HL-U509-B,"Sport-100 Helmet, Blue",Accessories,Helmets,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,13.08,34.99,62.62,240,100,260,53,0,2024-11-26,Microsoft AdventureWorks Inventory OLTP
+HL-U509-K,"Sport-100 Helmet, Black",Accessories,Helmets,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,13.08,34.99,62.62,300,120,292,42,0,2024-11-07,Microsoft AdventureWorks Inventory OLTP
+HL-U509-K,"Sport-100 Helmet, Black",Accessories,Helmets,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,13.08,34.99,62.62,300,120,282,70,0,2024-11-19,Microsoft AdventureWorks Inventory OLTP
+HL-U509-K,"Sport-100 Helmet, Black",Accessories,Helmets,WH-GUR-03,Haryana,Northern Distribution Center,13.08,34.99,62.62,300,120,130,23,0,2024-11-12,Microsoft AdventureWorks Inventory OLTP
+HL-U509-K,"Sport-100 Helmet, Black",Accessories,Helmets,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,13.08,34.99,62.62,300,120,229,47,0,2024-10-13,Microsoft AdventureWorks Inventory OLTP
+LT-H902,High-Lumen Rechargeable LED Headlight,Accessories,Lights,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,21.5,48.0,55.21,200,80,80,19,1,2024-11-15,Microsoft AdventureWorks Inventory OLTP
+LT-H902,High-Lumen Rechargeable LED Headlight,Accessories,Lights,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,21.5,48.0,55.21,200,80,159,39,0,2024-11-05,Microsoft AdventureWorks Inventory OLTP
+LT-H902,High-Lumen Rechargeable LED Headlight,Accessories,Lights,WH-GUR-03,Haryana,Northern Distribution Center,21.5,48.0,55.21,200,80,125,27,0,2024-10-06,Microsoft AdventureWorks Inventory OLTP
+LT-H902,High-Lumen Rechargeable LED Headlight,Accessories,Lights,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,21.5,48.0,55.21,200,80,98,9,0,2024-11-09,Microsoft AdventureWorks Inventory OLTP
+LT-T401,Ultra-Bright Pulse Rear Tail Light,Accessories,Lights,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,12.0,26.5,54.72,220,90,218,41,0,2024-10-02,Microsoft AdventureWorks Inventory OLTP
+LT-T401,Ultra-Bright Pulse Rear Tail Light,Accessories,Lights,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,12.0,26.5,54.72,220,90,182,34,0,2024-11-07,Microsoft AdventureWorks Inventory OLTP
+LT-T401,Ultra-Bright Pulse Rear Tail Light,Accessories,Lights,WH-GUR-03,Haryana,Northern Distribution Center,12.0,26.5,54.72,220,90,243,39,0,2024-10-24,Microsoft AdventureWorks Inventory OLTP
+LT-T401,Ultra-Bright Pulse Rear Tail Light,Accessories,Lights,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,12.0,26.5,54.72,220,90,243,52,0,2024-10-09,Microsoft AdventureWorks Inventory OLTP
+LK-7801,Heavy-Duty Hardened Steel U-Lock,Accessories,Locks,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,19.8,42.0,52.86,180,75,193,28,0,2024-11-10,Microsoft AdventureWorks Inventory OLTP
+LK-7801,Heavy-Duty Hardened Steel U-Lock,Accessories,Locks,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,19.8,42.0,52.86,180,75,92,5,0,2024-11-26,Microsoft AdventureWorks Inventory OLTP
+LK-7801,Heavy-Duty Hardened Steel U-Lock,Accessories,Locks,WH-GUR-03,Haryana,Northern Distribution Center,19.8,42.0,52.86,180,75,100,9,0,2024-10-27,Microsoft AdventureWorks Inventory OLTP
+LK-7801,Heavy-Duty Hardened Steel U-Lock,Accessories,Locks,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,19.8,42.0,52.86,180,75,135,15,0,2024-10-21,Microsoft AdventureWorks Inventory OLTP
+PU-3209,Floor Gauge High-Pressure Air Pump,Accessories,Pumps,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,16.5,36.0,54.17,150,60,76,5,0,2024-10-15,Microsoft AdventureWorks Inventory OLTP
+PU-3209,Floor Gauge High-Pressure Air Pump,Accessories,Pumps,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,16.5,36.0,54.17,150,60,74,15,0,2024-10-05,Microsoft AdventureWorks Inventory OLTP
+PU-3209,Floor Gauge High-Pressure Air Pump,Accessories,Pumps,WH-GUR-03,Haryana,Northern Distribution Center,16.5,36.0,54.17,150,60,90,4,0,2024-10-23,Microsoft AdventureWorks Inventory OLTP
+PU-3209,Floor Gauge High-Pressure Air Pump,Accessories,Pumps,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,16.5,36.0,54.17,150,60,134,10,0,2024-11-22,Microsoft AdventureWorks Inventory OLTP
+WB-1001,Thermal Insulated Cycling Water Bottle 750ml,Accessories,Bottles,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,4.2,11.99,64.97,450,180,451,100,0,2024-11-25,Microsoft AdventureWorks Inventory OLTP
+WB-1001,Thermal Insulated Cycling Water Bottle 750ml,Accessories,Bottles,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,4.2,11.99,64.97,450,180,289,68,0,2024-11-04,Microsoft AdventureWorks Inventory OLTP
+WB-1001,Thermal Insulated Cycling Water Bottle 750ml,Accessories,Bottles,WH-GUR-03,Haryana,Northern Distribution Center,4.2,11.99,64.97,450,180,362,42,0,2024-11-09,Microsoft AdventureWorks Inventory OLTP
+WB-1001,Thermal Insulated Cycling Water Bottle 750ml,Accessories,Bottles,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,4.2,11.99,64.97,450,180,208,16,0,2024-11-02,Microsoft AdventureWorks Inventory OLTP
+CL-J302-M,"Men's Wind-Breaker Cycling Jacket, M",Clothing,Jerseys,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,45.0,89.99,49.99,120,50,120,29,0,2024-10-19,Microsoft AdventureWorks Inventory OLTP
+CL-J302-M,"Men's Wind-Breaker Cycling Jacket, M",Clothing,Jerseys,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,45.0,89.99,49.99,120,50,75,14,0,2024-10-25,Microsoft AdventureWorks Inventory OLTP
+CL-J302-M,"Men's Wind-Breaker Cycling Jacket, M",Clothing,Jerseys,WH-GUR-03,Haryana,Northern Distribution Center,45.0,89.99,49.99,120,50,110,25,0,2024-10-10,Microsoft AdventureWorks Inventory OLTP
+CL-J302-M,"Men's Wind-Breaker Cycling Jacket, M",Clothing,Jerseys,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,45.0,89.99,49.99,120,50,78,14,0,2024-10-08,Microsoft AdventureWorks Inventory OLTP
+CL-J302-L,"Men's Wind-Breaker Cycling Jacket, L",Clothing,Jerseys,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,45.0,89.99,49.99,110,50,61,6,0,2024-10-16,Microsoft AdventureWorks Inventory OLTP
+CL-J302-L,"Men's Wind-Breaker Cycling Jacket, L",Clothing,Jerseys,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,45.0,89.99,49.99,110,50,72,6,0,2024-11-29,Microsoft AdventureWorks Inventory OLTP
+CL-J302-L,"Men's Wind-Breaker Cycling Jacket, L",Clothing,Jerseys,WH-GUR-03,Haryana,Northern Distribution Center,45.0,89.99,49.99,110,50,135,32,0,2024-11-04,Microsoft AdventureWorks Inventory OLTP
+CL-J302-L,"Men's Wind-Breaker Cycling Jacket, L",Clothing,Jerseys,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,45.0,89.99,49.99,110,50,125,25,0,2024-10-24,Microsoft AdventureWorks Inventory OLTP
+CL-B401-M,"Padded Ergonomic Cycling Bib Shorts, M",Clothing,Shorts,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,38.0,74.99,49.33,130,55,52,8,1,2024-10-02,Microsoft AdventureWorks Inventory OLTP
+CL-B401-M,"Padded Ergonomic Cycling Bib Shorts, M",Clothing,Shorts,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,38.0,74.99,49.33,130,55,134,23,0,2024-10-20,Microsoft AdventureWorks Inventory OLTP
+CL-B401-M,"Padded Ergonomic Cycling Bib Shorts, M",Clothing,Shorts,WH-GUR-03,Haryana,Northern Distribution Center,38.0,74.99,49.33,130,55,108,25,0,2024-11-20,Microsoft AdventureWorks Inventory OLTP
+CL-B401-M,"Padded Ergonomic Cycling Bib Shorts, M",Clothing,Shorts,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,38.0,74.99,49.33,130,55,84,5,0,2024-11-07,Microsoft AdventureWorks Inventory OLTP
+CL-G201-L,"Gel Padded Breathable Riding Gloves, L",Clothing,Gloves,WH-PUNE-01,Maharashtra,Western Central Logistics Hub,11.5,24.99,53.98,280,110,304,25,0,2024-10-04,Microsoft AdventureWorks Inventory OLTP
+CL-G201-L,"Gel Padded Breathable Riding Gloves, L",Clothing,Gloves,WH-BLR-02,Karnataka,Southern Technology & Parts Depot,11.5,24.99,53.98,280,110,300,64,0,2024-10-18,Microsoft AdventureWorks Inventory OLTP
+CL-G201-L,"Gel Padded Breathable Riding Gloves, L",Clothing,Gloves,WH-GUR-03,Haryana,Northern Distribution Center,11.5,24.99,53.98,280,110,232,52,0,2024-11-01,Microsoft AdventureWorks Inventory OLTP
+CL-G201-L,"Gel Padded Breathable Riding Gloves, L",Clothing,Gloves,WH-AMD-04,Gujarat,Port & Export Assembly Warehouse,11.5,24.99,53.98,280,110,101,9,1,2024-10-16,Microsoft AdventureWorks Inventory OLTP

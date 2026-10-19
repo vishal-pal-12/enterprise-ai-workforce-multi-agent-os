@@ -1,0 +1,361 @@
+month_year,state_ut,gross_gst_collection_inr_crore,yoy_growth_rate_pct,source_authority,license
+2023-01,Maharashtra,24790.19,12.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Gujarat,14189.12,10.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Tamil Nadu,13373.66,9.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Karnataka,14841.5,12.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Uttar Pradesh,10437.98,15.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Telangana,6849.92,11.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Haryana,9459.41,15.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,West Bengal,6686.83,12.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Rajasthan,5871.36,12.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Madhya Pradesh,4566.61,15.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Kerala,3914.24,13.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Punjab,2772.59,13.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Andhra Pradesh,5055.89,11.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Odisha,5545.17,13.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-01,Delhi NCR,7013.01,14.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Maharashtra,24694.02,10.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Gujarat,14134.08,12.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Tamil Nadu,13321.77,11.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Karnataka,14783.92,14.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Uttar Pradesh,10397.48,13.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Telangana,6823.35,16.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Haryana,9422.72,14.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,West Bengal,6660.89,11.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Rajasthan,5848.58,11.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Madhya Pradesh,4548.9,14.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Kerala,3899.06,11.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Punjab,2761.83,16.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Andhra Pradesh,5036.28,10.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Odisha,5523.66,16.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-02,Delhi NCR,6985.81,10.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Maharashtra,25435.05,9.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Gujarat,14558.22,14.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Tamil Nadu,13721.54,16.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Karnataka,15227.56,10.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Uttar Pradesh,10709.5,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Telangana,7028.11,15.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Haryana,9705.48,9.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,West Bengal,6860.77,15.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Rajasthan,6024.09,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Madhya Pradesh,4685.4,14.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Kerala,4016.06,10.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Punjab,2844.71,11.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Andhra Pradesh,5187.41,10.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Odisha,5689.42,10.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-03,Delhi NCR,7195.44,12.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Maharashtra,24834.67,12.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Gujarat,14214.58,13.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Tamil Nadu,13397.65,13.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Karnataka,14868.13,13.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Uttar Pradesh,10456.71,15.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Telangana,6862.21,15.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Haryana,9476.39,12.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,West Bengal,6698.83,9.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Rajasthan,5881.9,16.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Madhya Pradesh,4574.81,14.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Kerala,3921.26,15.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Punjab,2777.56,13.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Andhra Pradesh,5064.97,15.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Odisha,5555.12,9.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-04,Delhi NCR,7025.6,10.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Maharashtra,25580.37,10.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Gujarat,14641.4,13.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Tamil Nadu,13799.94,13.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Karnataka,15314.56,13.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Uttar Pradesh,10770.68,13.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Telangana,7068.26,16.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Haryana,9760.93,11.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,West Bengal,6899.97,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Rajasthan,6058.51,9.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Madhya Pradesh,4712.17,9.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Kerala,4039.01,10.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Punjab,2860.96,14.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Andhra Pradesh,5217.05,13.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Odisha,5721.92,14.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-05,Delhi NCR,7236.55,10.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Maharashtra,25169.43,12.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Gujarat,14406.19,14.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Tamil Nadu,13578.24,14.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Karnataka,15068.54,10.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Uttar Pradesh,10597.65,16.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Telangana,6954.71,12.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Haryana,9604.12,11.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,West Bengal,6789.12,15.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Rajasthan,5961.18,9.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Madhya Pradesh,4636.47,15.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Kerala,3974.12,14.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Punjab,2815.0,11.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Andhra Pradesh,5133.24,11.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Odisha,5630.0,14.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-06,Delhi NCR,7120.3,12.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Maharashtra,25287.31,9.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Gujarat,14473.66,14.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Tamil Nadu,13641.84,12.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Karnataka,15139.11,9.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Uttar Pradesh,10647.29,9.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Telangana,6987.28,14.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Haryana,9649.11,9.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,West Bengal,6820.92,11.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Rajasthan,5989.1,9.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Madhya Pradesh,4658.19,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Kerala,3992.73,16.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Punjab,2828.19,14.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Andhra Pradesh,5157.28,12.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Odisha,5656.37,13.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-07,Delhi NCR,7153.65,11.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Maharashtra,25616.52,12.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Gujarat,14662.09,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Tamil Nadu,13819.44,13.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Karnataka,15336.21,10.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Uttar Pradesh,10785.9,13.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Telangana,7078.25,12.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Haryana,9774.73,14.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,West Bengal,6909.72,15.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Rajasthan,6067.07,12.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Madhya Pradesh,4718.83,12.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Kerala,4044.71,9.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Punjab,2865.01,10.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Andhra Pradesh,5224.42,11.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Odisha,5730.01,14.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-08,Delhi NCR,7246.78,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Maharashtra,26097.65,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Gujarat,14937.47,13.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Tamil Nadu,14079.0,11.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Karnataka,15624.25,10.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Uttar Pradesh,10988.49,9.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Telangana,7211.19,14.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Haryana,9958.32,12.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,West Bengal,7039.5,16.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Rajasthan,6181.02,11.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Madhya Pradesh,4807.46,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Kerala,4120.68,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Punjab,2918.82,9.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Andhra Pradesh,5322.55,11.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Odisha,5837.63,12.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-09,Delhi NCR,7382.89,10.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Maharashtra,26469.69,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Gujarat,15150.42,15.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Tamil Nadu,14279.7,13.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Karnataka,15846.99,14.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Uttar Pradesh,11145.13,11.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Telangana,7313.99,10.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Haryana,10100.28,9.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,West Bengal,7139.85,11.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Rajasthan,6269.14,10.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Madhya Pradesh,4876.0,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Kerala,4179.43,13.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Punjab,2960.43,13.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Andhra Pradesh,5398.42,12.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Odisha,5920.85,12.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-10,Delhi NCR,7488.14,13.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Maharashtra,27155.23,16.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Gujarat,15542.8,10.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Tamil Nadu,14649.53,10.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Karnataka,16257.41,11.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Uttar Pradesh,11433.78,10.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Telangana,7503.42,15.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Haryana,10361.86,13.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,West Bengal,7324.77,15.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Rajasthan,6431.5,16.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Madhya Pradesh,5002.28,12.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Kerala,4287.67,10.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Punjab,3037.1,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Andhra Pradesh,5538.24,13.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Odisha,6074.2,13.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-11,Delhi NCR,7682.07,12.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Maharashtra,26437.23,14.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Gujarat,15131.83,12.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Tamil Nadu,14262.19,10.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Karnataka,15827.55,13.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Uttar Pradesh,11131.46,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Telangana,7305.02,10.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Haryana,10087.89,9.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,West Bengal,7131.09,10.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Rajasthan,6261.45,11.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Madhya Pradesh,4870.02,14.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Kerala,4174.3,13.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Punjab,2956.8,14.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Andhra Pradesh,5391.8,12.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Odisha,5913.59,12.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2023-12,Delhi NCR,7478.95,13.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Maharashtra,26136.98,13.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Gujarat,14959.98,16.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Tamil Nadu,14100.21,13.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Karnataka,15647.8,14.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Uttar Pradesh,11005.04,14.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Telangana,7222.06,12.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Haryana,9973.32,10.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,West Bengal,7050.11,12.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Rajasthan,6190.34,14.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Madhya Pradesh,4814.71,13.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Kerala,4126.89,10.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Punjab,2923.21,15.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Andhra Pradesh,5330.57,9.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Odisha,5846.43,11.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-01,Delhi NCR,7394.01,15.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Maharashtra,25921.76,15.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Gujarat,14836.8,9.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Tamil Nadu,13984.11,15.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Karnataka,15518.95,10.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Uttar Pradesh,10914.43,14.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Telangana,7162.59,14.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Haryana,9891.2,15.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,West Bengal,6992.05,13.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Rajasthan,6139.36,12.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Madhya Pradesh,4775.06,13.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Kerala,4092.91,14.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Punjab,2899.14,15.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Andhra Pradesh,5286.67,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Odisha,5798.29,13.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-02,Delhi NCR,7333.13,13.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Maharashtra,27177.31,10.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Gujarat,15555.43,16.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Tamil Nadu,14661.44,11.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Karnataka,16270.62,13.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Uttar Pradesh,11443.08,16.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Telangana,7509.52,12.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Haryana,10370.29,15.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,West Bengal,7330.72,15.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Rajasthan,6436.73,10.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Madhya Pradesh,5006.35,14.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Kerala,4291.15,12.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Punjab,3039.57,9.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Andhra Pradesh,5542.74,11.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Odisha,6079.13,13.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-03,Delhi NCR,7688.32,14.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Maharashtra,26352.66,10.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Gujarat,15083.43,11.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Tamil Nadu,14216.57,10.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Karnataka,15776.92,15.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Uttar Pradesh,11095.86,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Telangana,7281.66,10.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Haryana,10055.62,13.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,West Bengal,7108.28,13.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Rajasthan,6241.42,11.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Madhya Pradesh,4854.44,9.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Kerala,4160.95,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Punjab,2947.34,14.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Andhra Pradesh,5374.56,12.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Odisha,5894.67,14.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-04,Delhi NCR,7455.03,14.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Maharashtra,28130.61,12.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Gujarat,16101.07,12.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Tamil Nadu,15175.72,13.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Karnataka,16841.35,15.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Uttar Pradesh,11844.47,15.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Telangana,7772.93,9.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Haryana,10734.05,16.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,West Bengal,7587.86,13.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Rajasthan,6662.51,14.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Madhya Pradesh,5181.95,15.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Kerala,4441.67,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Punjab,3146.19,12.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Andhra Pradesh,5737.16,16.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Odisha,6292.37,15.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-05,Delhi NCR,7958.0,12.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Maharashtra,27100.58,11.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Gujarat,15511.51,13.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Tamil Nadu,14620.05,10.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Karnataka,16224.69,15.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Uttar Pradesh,11410.77,14.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Telangana,7488.32,15.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Haryana,10341.01,14.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,West Bengal,7310.02,9.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Rajasthan,6418.56,13.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Madhya Pradesh,4992.21,15.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Kerala,4279.04,9.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Punjab,3030.99,16.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Andhra Pradesh,5527.09,10.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Odisha,6061.97,12.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-06,Delhi NCR,7666.61,16.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Maharashtra,27499.99,16.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Gujarat,15740.13,15.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Tamil Nadu,14835.52,15.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Karnataka,16463.81,11.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Uttar Pradesh,11578.94,15.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Telangana,7598.68,15.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Haryana,10493.42,9.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,West Bengal,7417.76,11.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Rajasthan,6513.16,9.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Madhya Pradesh,5065.79,14.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Kerala,4342.1,13.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Punjab,3075.66,9.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Andhra Pradesh,5608.55,13.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Odisha,6151.31,14.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-07,Delhi NCR,7779.6,14.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Maharashtra,27674.1,9.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Gujarat,15839.78,9.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Tamil Nadu,14929.45,10.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Karnataka,16568.05,9.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Uttar Pradesh,11652.25,13.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Telangana,7646.79,12.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Haryana,10559.86,12.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,West Bengal,7464.73,9.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Rajasthan,6554.39,11.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Madhya Pradesh,5097.86,9.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Kerala,4369.6,15.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Punjab,3095.13,14.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Andhra Pradesh,5644.06,12.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Odisha,6190.26,10.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-08,Delhi NCR,7828.86,9.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Maharashtra,28680.66,9.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Gujarat,16415.9,11.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Tamil Nadu,15472.46,11.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Karnataka,17170.66,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Uttar Pradesh,12076.07,15.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Telangana,7924.92,15.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Haryana,10943.93,13.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,West Bengal,7736.23,14.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Rajasthan,6792.79,9.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Madhya Pradesh,5283.28,13.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Kerala,4528.52,13.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Punjab,3207.7,10.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Andhra Pradesh,5849.34,11.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Odisha,6415.41,10.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-09,Delhi NCR,8113.61,14.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Maharashtra,29111.03,13.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Gujarat,16662.23,12.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Tamil Nadu,15704.63,10.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Karnataka,17428.31,15.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Uttar Pradesh,12257.27,10.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Telangana,8043.84,9.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Haryana,11108.16,14.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,West Bengal,7852.32,11.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Rajasthan,6894.72,12.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Madhya Pradesh,5362.56,14.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Kerala,4596.48,10.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Punjab,3255.84,13.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Andhra Pradesh,5937.12,10.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Odisha,6511.68,13.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-10,Delhi NCR,8235.36,14.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Maharashtra,27863.03,16.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Gujarat,15947.92,9.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Tamil Nadu,15031.37,15.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Karnataka,16681.16,15.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Uttar Pradesh,11731.8,10.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Telangana,7699.0,13.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Haryana,10631.95,10.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,West Bengal,7515.69,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Rajasthan,6599.14,13.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Madhya Pradesh,5132.66,14.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Kerala,4399.43,15.0,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Punjab,3116.26,10.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Andhra Pradesh,5682.59,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Odisha,6232.52,10.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-11,Delhi NCR,7882.31,13.8,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Maharashtra,27548.86,15.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Gujarat,15768.1,9.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Tamil Nadu,14861.88,11.7,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Karnataka,16493.07,11.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Uttar Pradesh,11599.52,11.9,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Telangana,7612.18,15.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Haryana,10512.06,12.2,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,West Bengal,7430.94,13.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Rajasthan,6524.73,10.3,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Madhya Pradesh,5074.79,12.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Kerala,4349.82,16.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Punjab,3081.12,9.5,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Andhra Pradesh,5618.52,13.4,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Odisha,6162.24,9.1,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL
+2024-12,Delhi NCR,7793.43,10.6,Ministry of Finance / Goods and Services Tax Network (GSTN / data.gov.in),GODL

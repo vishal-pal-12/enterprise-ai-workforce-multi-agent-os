@@ -1,0 +1,5 @@
+initiative_id,pillar,title,lead_agent,status,target_completion,budget_usd,kpi_metric
+INIT-2024-01,Market Expansion,B2B Expansion into Tier-2 Industrial Hubs (Pune & Surat),SalesAgent,In Progress,2024-Q4,450000,30% Net New MSME Pipeline
+INIT-2024-02,Supply Chain Resilience,Automated Reorder Trigger Integration with ASI Power Indices,InventoryAgent,Completed,2024-Q2,280000,Zero Production Outages
+INIT-2024-03,Working Capital Optimization,Automated Dunning & DSO Reduction under 42 Days,FinanceAgent,In Progress,2024-Q3,150000,Days Sales Outstanding <= 40
+INIT-2024-04,Talent Retention & Benchmarking,ASI Wage Parity Adjustment & Critical Tech Retention,HRAgent,In Progress,2024-Q4,320000,Attrition Rate < 6%

@@ -1,0 +1,9 @@
+industry_sector,skill_tier,avg_monthly_turnover_pct,availability_index,source_authority
+Machinery and Equipment n.e.c.,Highly Skilled,1.4,82.5,Periodic Labour Force Survey (PLFS) / Ministry of Labour & Employment (data.gov.in)
+Machinery and Equipment n.e.c.,Skilled Technician,2.1,76.0,Periodic Labour Force Survey (PLFS) / Ministry of Labour & Employment (data.gov.in)
+"Motor Vehicles, Trailers and Semi-Trailers",Highly Skilled,1.6,85.0,Periodic Labour Force Survey (PLFS) / Ministry of Labour & Employment (data.gov.in)
+"Motor Vehicles, Trailers and Semi-Trailers",Skilled Technician,2.4,79.5,Periodic Labour Force Survey (PLFS) / Ministry of Labour & Employment (data.gov.in)
+Other Transport Equipment (Bicycles & Components),Semi-Skilled Operator,2.8,88.0,Periodic Labour Force Survey (PLFS) / Ministry of Labour & Employment (data.gov.in)
+Other Transport Equipment (Bicycles & Components),Quality Inspector,1.5,74.0,Periodic Labour Force Survey (PLFS) / Ministry of Labour & Employment (data.gov.in)
+Fabricated Metal Products,Welder / Machinist,2.9,84.0,Periodic Labour Force Survey (PLFS) / Ministry of Labour & Employment (data.gov.in)
+"Computer, Electronic and Optical Products",Firmware / Embedded Engineer,2.2,68.0,Periodic Labour Force Survey (PLFS) / Ministry of Labour & Employment (data.gov.in)

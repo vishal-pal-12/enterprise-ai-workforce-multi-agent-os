@@ -1,0 +1,85 @@
+state_ut,district,enterprise_category,registered_units_count,women_owned_units_pct,total_estimated_employment,reporting_year,source_portal,license
+Maharashtra,Pune,Micro,36562,17.9,116998,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Pune,Small,8238,24.8,152403,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Pune,Medium,1740,14.2,147900,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Mumbai,Micro,49169,21.3,157340,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Mumbai,Small,14712,17.7,272172,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Mumbai,Medium,1129,16.9,95965,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Thane,Micro,49762,17.1,159238,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Thane,Small,13086,25.8,242091,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Thane,Medium,1288,23.5,109480,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Nashik,Micro,46840,23.0,149888,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Nashik,Small,14900,19.8,275650,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Nashik,Medium,1730,18.4,147050,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Aurangabad,Micro,34288,20.8,109721,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Aurangabad,Small,9566,25.1,176971,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Maharashtra,Aurangabad,Medium,2019,26.0,171615,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Ahmedabad,Micro,48111,24.5,153955,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Ahmedabad,Small,8513,24.2,157490,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Ahmedabad,Medium,964,14.1,81940,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Surat,Micro,34199,21.9,109436,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Surat,Small,8452,15.9,156362,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Surat,Medium,1154,19.7,98090,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Vadodara,Micro,31426,22.0,100563,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Vadodara,Small,16765,25.4,310152,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Vadodara,Medium,1648,14.2,140080,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Rajkot,Micro,48409,19.1,154908,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Rajkot,Small,7960,23.0,147260,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Gujarat,Rajkot,Medium,1510,17.6,128350,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Chennai,Micro,47329,22.7,151452,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Chennai,Small,11933,25.7,220760,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Chennai,Medium,1110,25.5,94350,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Coimbatore,Micro,48127,17.0,154006,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Coimbatore,Small,13749,17.2,254356,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Coimbatore,Medium,1306,23.9,111010,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Tiruppur,Micro,32094,26.0,102700,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Tiruppur,Small,12206,17.0,225811,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Tiruppur,Medium,1690,17.7,143650,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Salem,Micro,59060,15.0,188992,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Salem,Small,17320,22.1,320420,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Tamil Nadu,Salem,Medium,945,19.1,80325,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Bengaluru Urban,Micro,42828,20.0,137049,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Bengaluru Urban,Small,13912,22.8,257372,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Bengaluru Urban,Medium,1002,24.6,85170,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Mysuru,Micro,52466,18.1,167891,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Mysuru,Small,17182,26.2,317867,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Mysuru,Medium,1912,25.5,162520,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Belagavi,Micro,37521,25.3,120067,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Belagavi,Small,14445,21.1,267232,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Karnataka,Belagavi,Medium,1213,25.6,103105,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Gautam Buddha Nagar,Micro,53889,17.5,172444,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Gautam Buddha Nagar,Small,13013,22.2,240740,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Gautam Buddha Nagar,Medium,1110,24.6,94350,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Kanpur Nagar,Micro,29813,16.6,95401,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Kanpur Nagar,Small,9184,24.3,169904,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Kanpur Nagar,Medium,1829,25.6,155465,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Ghaziabad,Micro,40023,21.0,128073,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Ghaziabad,Small,13240,24.6,244940,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Uttar Pradesh,Ghaziabad,Medium,1668,20.8,141780,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Telangana,Hyderabad,Micro,43068,23.2,137817,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Telangana,Hyderabad,Small,15388,22.6,284678,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Telangana,Hyderabad,Medium,997,23.3,84745,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Telangana,Medchal-Malkajgiri,Micro,41700,15.2,133440,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Telangana,Medchal-Malkajgiri,Small,10028,15.0,185518,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Telangana,Medchal-Malkajgiri,Medium,1587,21.7,134895,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Gurugram,Micro,50691,26.1,162211,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Gurugram,Small,10933,21.9,202260,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Gurugram,Medium,1787,19.6,151895,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Faridabad,Micro,37462,20.9,119878,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Faridabad,Small,11404,16.3,210974,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Faridabad,Medium,1566,18.8,133110,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Panipat,Micro,57048,17.7,182553,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Panipat,Small,10165,14.9,188052,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Haryana,Panipat,Medium,1210,18.7,102850,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+West Bengal,Kolkata,Micro,57470,15.9,183904,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+West Bengal,Kolkata,Small,11540,18.5,213490,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+West Bengal,Kolkata,Medium,1012,25.8,86020,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+West Bengal,Howrah,Micro,45260,23.5,144832,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+West Bengal,Howrah,Small,8781,15.1,162448,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+West Bengal,Howrah,Medium,1392,21.0,118320,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Rajasthan,Jaipur,Micro,47697,15.3,152630,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Rajasthan,Jaipur,Small,8660,20.9,160210,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Rajasthan,Jaipur,Medium,1578,23.8,134130,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Rajasthan,Alwar,Micro,60343,14.2,193097,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Rajasthan,Alwar,Small,11772,23.7,217782,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India
+Rajasthan,Alwar,Medium,1721,21.0,146285,2023-2024,data.gov.in/resource/udyam-registration-statistics,GODL-India

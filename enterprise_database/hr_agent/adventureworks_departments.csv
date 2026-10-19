@@ -1,0 +1,10 @@
+department_id,department_name,cost_center,head_count_target
+DEP-101,Executive Leadership,CC-EXEC-01,8
+DEP-102,Sales & Commercial Operations,CC-SALES-02,35
+DEP-103,Supply Chain & Logistics,CC-SCM-03,28
+DEP-104,Finance & Accounting,CC-FIN-04,18
+DEP-105,Human Resources & Talent,CC-HR-05,12
+DEP-106,Engineering & R&D,CC-ENG-06,30
+DEP-107,Manufacturing Operations,CC-MFG-07,45
+DEP-108,Quality Assurance,CC-QA-08,15
+DEP-109,IT & Systems Architecture,CC-IT-09,16

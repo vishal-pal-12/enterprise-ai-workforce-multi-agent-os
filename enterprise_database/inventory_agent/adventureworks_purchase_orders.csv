@@ -1,0 +1,501 @@
+purchase_order_id,vendor_id,vendor_name,vendor_location,product_id,order_qty,unit_purchase_cost_usd,total_po_amount_usd,order_date,delivery_status,lead_time_days,source_system
+PO-80001,VEN-504,Continental Tyre India,Uttar Pradesh,BB-7421,171,44.5,7609.5,2024-05-20,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80002,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LT-H902,185,21.01,3886.85,2024-09-16,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80003,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LT-H902,199,21.99,4376.01,2024-08-22,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80004,VEN-505,Shimano Component Distributors,Karnataka,BK-T79Y-58,66,1444.41,95331.06,2023-01-10,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80005,VEN-505,Shimano Component Distributors,Karnataka,BB-7421,177,41.61,7364.97,2022-06-16,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80006,VEN-504,Continental Tyre India,Uttar Pradesh,CL-B401-M,130,36.59,4756.7,2024-11-04,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80007,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68S-42,140,1945.82,272414.8,2024-03-04,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80008,VEN-504,Continental Tyre India,Uttar Pradesh,FR-M94B-48,194,871.86,169140.84,2023-09-16,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80009,VEN-505,Shimano Component Distributors,Karnataka,CL-B401-M,122,35.08,4279.76,2024-09-13,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80010,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-46,166,1780.22,295516.52,2023-09-12,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80011,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R93R-48,185,2239.33,414276.05,2023-06-22,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80012,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LT-H902,27,20.92,564.84,2024-06-25,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80013,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-48,122,2212.96,269981.12,2022-05-23,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80014,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-M,168,44.8,7526.4,2023-01-28,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80015,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-56,145,2031.46,294561.7,2022-11-24,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80016,VEN-504,Continental Tyre India,Uttar Pradesh,WH-5201,79,181.35,14326.65,2023-02-22,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80017,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LK-7801,176,18.89,3324.64,2023-09-23,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80018,VEN-505,Shimano Component Distributors,Karnataka,RD-2309,27,64.76,1748.52,2022-11-20,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80019,VEN-505,Shimano Component Distributors,Karnataka,CS-6583,192,115.51,22177.92,2022-06-28,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80020,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-46,92,1834.69,168791.48,2022-08-20,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80021,VEN-505,Shimano Component Distributors,Karnataka,LT-T401,26,12.59,327.34,2024-07-09,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80022,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-52,157,2121.56,333084.92,2023-11-28,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80023,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CS-9011,61,235.04,14337.44,2024-12-22,Shipped,17,Microsoft AdventureWorks Purchasing Module
+PO-80024,VEN-505,Shimano Component Distributors,Karnataka,CL-B401-M,188,38.84,7301.92,2023-07-24,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80025,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M82S-44,139,1133.74,157589.86,2022-06-04,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80026,VEN-504,Continental Tyre India,Uttar Pradesh,CL-J302-M,21,43.66,916.86,2024-10-25,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80027,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,FR-R92R-58,107,926.14,99096.98,2022-08-22,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80028,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-48,117,2181.2,255200.4,2022-07-30,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80029,VEN-505,Shimano Component Distributors,Karnataka,BK-M82S-44,43,1076.18,46275.74,2024-11-12,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80030,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68S-42,141,1772.56,249930.96,2022-08-23,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80031,VEN-502,Tata Precision Tubes,Jharkhand,LT-T401,30,11.74,352.2,2023-09-04,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80032,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-46,181,1879.26,340146.06,2024-11-16,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80033,VEN-501,Hindalco Extrusions Ltd,Maharashtra,WB-1001,122,3.95,481.9,2022-11-23,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80034,VEN-505,Shimano Component Distributors,Karnataka,LT-T401,186,12.4,2306.4,2022-12-23,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80035,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-G201-L,27,11.57,312.39,2023-10-31,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80036,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M82S-44,149,1124.31,167522.19,2024-11-23,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80037,VEN-505,Shimano Component Distributors,Karnataka,BK-R50B-52,181,1034.23,187195.63,2024-08-14,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80038,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68B-42,171,1915.28,327512.88,2024-05-16,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80039,VEN-505,Shimano Component Distributors,Karnataka,HL-U509-K,63,13.39,843.57,2022-08-14,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80040,VEN-504,Continental Tyre India,Uttar Pradesh,BK-T79Y-58,162,1369.75,221899.5,2022-02-01,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80041,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-6583,136,105.0,14280.0,2022-09-03,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80042,VEN-502,Tata Precision Tubes,Jharkhand,LT-T401,192,12.45,2390.4,2023-02-03,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80043,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BB-7421,103,46.22,4760.66,2023-03-24,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80044,VEN-502,Tata Precision Tubes,Jharkhand,CS-9011,153,226.9,34715.7,2023-11-16,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80045,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-R93R-56,22,2205.28,48516.16,2023-01-01,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80046,VEN-502,Tata Precision Tubes,Jharkhand,BR-4902,188,81.17,15259.96,2022-11-29,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80047,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68B-46,59,1982.25,116952.75,2022-07-04,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80048,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CS-6583,66,112.28,7410.48,2022-01-19,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80049,VEN-505,Shimano Component Distributors,Karnataka,PU-3209,200,15.31,3062.0,2024-04-09,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80050,VEN-504,Continental Tyre India,Uttar Pradesh,PU-3209,53,17.15,908.95,2022-01-02,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80051,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-K,54,13.47,727.38,2023-10-14,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80052,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68S-42,110,1814.3,199573.0,2023-12-22,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80053,VEN-504,Continental Tyre India,Uttar Pradesh,CS-9011,40,227.47,9098.8,2024-10-23,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80054,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BB-7421,82,46.64,3824.48,2022-02-03,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80055,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-B401-M,50,36.7,1835.0,2022-10-28,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80056,VEN-505,Shimano Component Distributors,Karnataka,PU-3209,83,16.29,1352.07,2024-10-17,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80057,VEN-504,Continental Tyre India,Uttar Pradesh,LT-T401,70,12.54,877.8,2022-11-08,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80058,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68S-42,123,1959.58,241028.34,2024-02-20,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80059,VEN-505,Shimano Component Distributors,Karnataka,CL-G201-L,92,11.46,1054.32,2024-04-15,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80060,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BR-4902,190,81.46,15477.4,2024-09-19,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80061,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-9011,174,222.34,38687.16,2023-01-16,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80062,VEN-502,Tata Precision Tubes,Jharkhand,LT-T401,22,11.64,256.08,2022-09-21,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80063,VEN-501,Hindalco Extrusions Ltd,Maharashtra,WB-1001,65,3.97,258.05,2024-04-15,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80064,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M82S-44,75,1075.02,80626.5,2023-05-23,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80065,VEN-504,Continental Tyre India,Uttar Pradesh,LT-H902,138,21.76,3002.88,2024-11-20,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80066,VEN-505,Shimano Component Distributors,Karnataka,BK-R50B-52,131,997.2,130633.2,2024-02-02,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80067,VEN-502,Tata Precision Tubes,Jharkhand,CS-9011,64,208.43,13339.52,2024-12-11,Shipped,29,Microsoft AdventureWorks Purchasing Module
+PO-80068,VEN-502,Tata Precision Tubes,Jharkhand,BK-T79Y-50,71,1479.57,105049.47,2023-11-02,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80069,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-56,52,2111.19,109781.88,2022-11-13,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80070,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-R93R-52,96,2011.61,193114.56,2023-08-17,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80071,VEN-504,Continental Tyre India,Uttar Pradesh,LT-H902,177,21.8,3858.6,2022-10-28,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80072,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,FR-R92R-58,92,908.46,83578.32,2022-03-11,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80073,VEN-501,Hindalco Extrusions Ltd,Maharashtra,FR-M94B-48,50,783.84,39192.0,2023-09-08,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80074,VEN-505,Shimano Component Distributors,Karnataka,CL-J302-L,58,46.67,2706.86,2023-10-21,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80075,VEN-504,Continental Tyre India,Uttar Pradesh,BK-T79Y-58,171,1481.45,253327.95,2022-03-09,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80076,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-K,60,13.3,798.0,2023-09-01,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80077,VEN-502,Tata Precision Tubes,Jharkhand,RD-2309,104,68.45,7118.8,2022-01-24,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80078,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-48,66,2063.51,136191.66,2024-11-28,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80079,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-L,129,44.96,5799.84,2024-05-23,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80080,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-9011,52,233.77,12156.04,2024-03-31,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80081,VEN-505,Shimano Component Distributors,Karnataka,BK-M68S-42,122,1891.76,230794.72,2024-01-28,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80082,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-M,82,45.07,3695.74,2024-01-17,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80083,VEN-504,Continental Tyre India,Uttar Pradesh,LT-T401,45,12.5,562.5,2024-04-17,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80084,VEN-505,Shimano Component Distributors,Karnataka,TI-9102,59,24.95,1472.05,2024-09-10,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80085,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-42,83,1942.42,161220.86,2023-09-27,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80086,VEN-504,Continental Tyre India,Uttar Pradesh,CS-9011,61,216.3,13194.3,2022-09-04,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80087,VEN-502,Tata Precision Tubes,Jharkhand,CL-J302-M,123,41.97,5162.31,2023-10-09,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80088,VEN-504,Continental Tyre India,Uttar Pradesh,CL-J302-L,70,45.16,3161.2,2024-10-12,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80089,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-R,77,12.75,981.75,2022-05-08,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80090,VEN-505,Shimano Component Distributors,Karnataka,BK-R50B-52,57,1093.22,62313.54,2022-04-03,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80091,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-52,152,2134.28,324410.56,2023-02-11,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80092,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68S-42,96,1940.93,186329.28,2023-01-24,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80093,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BR-4902,134,75.14,10068.76,2023-07-18,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80094,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BB-7421,130,41.66,5415.8,2024-10-07,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80095,VEN-505,Shimano Component Distributors,Karnataka,LT-T401,77,11.53,887.81,2022-09-21,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80096,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-M,102,41.85,4268.7,2024-04-26,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80097,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-52,181,2007.22,363306.82,2024-08-23,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80098,VEN-505,Shimano Component Distributors,Karnataka,HL-U509-R,143,13.22,1890.46,2022-07-03,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80099,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-R,88,12.63,1111.44,2022-06-10,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80100,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68S-42,162,1956.59,316967.58,2022-05-31,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80101,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-R,159,13.3,2114.7,2023-12-11,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80102,VEN-501,Hindalco Extrusions Ltd,Maharashtra,WH-5201,86,176.72,15197.92,2024-07-14,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80103,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,83,21.46,1781.18,2024-01-20,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80104,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R93R-48,141,1998.35,281767.35,2024-10-04,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80105,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-6583,99,108.86,10777.14,2022-01-26,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80106,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BB-7421,83,45.05,3739.15,2022-02-07,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80107,VEN-505,Shimano Component Distributors,Karnataka,BK-M82S-44,40,1145.31,45812.4,2022-12-31,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80108,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-K,61,13.34,813.74,2024-03-17,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80109,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-6583,115,117.63,13527.45,2024-11-18,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80110,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,180,22.5,4050.0,2023-07-25,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80111,VEN-501,Hindalco Extrusions Ltd,Maharashtra,PU-3209,158,15.21,2403.18,2024-12-29,Shipped,20,Microsoft AdventureWorks Purchasing Module
+PO-80112,VEN-502,Tata Precision Tubes,Jharkhand,TI-9102,117,23.44,2742.48,2022-07-05,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80113,VEN-505,Shimano Component Distributors,Karnataka,FR-M94B-48,80,819.85,65588.0,2023-02-22,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80114,VEN-502,Tata Precision Tubes,Jharkhand,FR-M94B-44,68,848.84,57721.12,2022-04-24,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80115,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CS-9011,148,233.56,34566.88,2022-02-12,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80116,VEN-504,Continental Tyre India,Uttar Pradesh,CL-J302-L,149,45.61,6795.89,2022-03-29,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80117,VEN-505,Shimano Component Distributors,Karnataka,CL-J302-M,172,42.38,7289.36,2022-03-29,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80118,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-R93R-56,76,2019.85,153508.6,2023-08-01,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80119,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-K,45,12.2,549.0,2024-02-15,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80120,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,TI-9102,107,23.06,2467.42,2022-04-07,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80121,VEN-502,Tata Precision Tubes,Jharkhand,BK-R50B-52,48,1079.01,51792.48,2022-09-02,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80122,VEN-501,Hindalco Extrusions Ltd,Maharashtra,RD-2309,195,68.91,13437.45,2024-07-20,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80123,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-46,77,1894.36,145865.72,2023-10-05,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80124,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-M,89,43.53,3874.17,2024-09-04,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80125,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-J302-M,156,45.37,7077.72,2022-04-27,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80126,VEN-502,Tata Precision Tubes,Jharkhand,FR-M94B-44,133,864.95,115038.35,2022-06-13,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80127,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R93R-52,82,2160.34,177147.88,2023-11-26,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80128,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-K,53,13.52,716.56,2024-04-15,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80129,VEN-502,Tata Precision Tubes,Jharkhand,WH-5201,20,178.94,3578.8,2024-02-09,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80130,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-K,156,12.55,1957.8,2022-05-31,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80131,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-J302-L,21,42.66,895.86,2024-07-07,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80132,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,104,22.37,2326.48,2022-04-10,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80133,VEN-504,Continental Tyre India,Uttar Pradesh,CS-6583,121,109.99,13308.79,2022-03-27,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80134,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-B,53,13.28,703.84,2022-04-01,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80135,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LK-7801,22,19.82,436.04,2023-06-29,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80136,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M68B-42,170,1756.97,298684.9,2023-03-20,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80137,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-48,183,2005.72,367046.76,2023-05-01,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80138,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-46,106,1785.16,189226.96,2023-06-22,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80139,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-B,198,13.05,2583.9,2024-08-15,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80140,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-R50B-52,30,1002.43,30072.9,2024-03-14,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80141,VEN-505,Shimano Component Distributors,Karnataka,LK-7801,54,20.44,1103.76,2022-03-30,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80142,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-J302-L,189,43.28,8179.92,2023-08-28,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80143,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-T79Y-58,101,1418.44,143262.44,2022-03-31,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80144,VEN-505,Shimano Component Distributors,Karnataka,RD-2309,104,64.93,6752.72,2023-08-08,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80145,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M68B-46,160,1893.03,302884.8,2022-09-05,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80146,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-G201-L,92,11.91,1095.72,2023-03-09,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80147,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LT-H902,60,22.2,1332.0,2024-04-11,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80148,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M82S-44,146,1118.03,163232.38,2022-09-10,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80149,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LT-T401,23,11.41,262.43,2024-02-18,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80150,VEN-504,Continental Tyre India,Uttar Pradesh,BK-T79Y-50,55,1423.02,78266.1,2024-05-10,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80151,VEN-501,Hindalco Extrusions Ltd,Maharashtra,PU-3209,95,16.14,1533.3,2022-01-22,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80152,VEN-502,Tata Precision Tubes,Jharkhand,LT-T401,24,11.24,269.76,2024-04-11,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80153,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-B,113,12.08,1365.04,2024-10-29,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80154,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-42,132,1803.01,237997.32,2022-05-19,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80155,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LK-7801,44,19.03,837.32,2024-10-14,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80156,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-G201-L,166,10.67,1771.22,2024-06-20,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80157,VEN-502,Tata Precision Tubes,Jharkhand,CS-9011,39,213.12,8311.68,2023-09-11,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80158,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BR-4902,165,74.93,12363.45,2024-06-24,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80159,VEN-504,Continental Tyre India,Uttar Pradesh,CS-9011,74,209.84,15528.16,2024-01-19,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80160,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,WB-1001,101,4.26,430.26,2022-04-22,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80161,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-56,183,2160.05,395289.15,2024-12-10,Shipped,23,Microsoft AdventureWorks Purchasing Module
+PO-80162,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LT-H902,129,20.7,2670.3,2023-03-16,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80163,VEN-505,Shimano Component Distributors,Karnataka,CS-6583,102,114.66,11695.32,2023-02-03,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80164,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,WB-1001,160,4.39,702.4,2024-03-21,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80165,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R93R-48,82,2278.11,186805.02,2023-01-16,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80166,VEN-504,Continental Tyre India,Uttar Pradesh,CL-J302-M,158,42.95,6786.1,2022-07-01,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80167,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-R50B-52,26,1080.34,28088.84,2022-12-02,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80168,VEN-504,Continental Tyre India,Uttar Pradesh,CS-6583,68,116.68,7934.24,2023-03-21,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80169,VEN-505,Shimano Component Distributors,Karnataka,CL-J302-M,194,42.18,8182.92,2023-03-12,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80170,VEN-504,Continental Tyre India,Uttar Pradesh,RD-2309,30,64.58,1937.4,2023-06-15,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80171,VEN-502,Tata Precision Tubes,Jharkhand,WH-5201,61,189.81,11578.41,2023-05-07,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80172,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-K,86,12.31,1058.66,2023-01-18,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80173,VEN-502,Tata Precision Tubes,Jharkhand,BK-M82S-48,156,1154.49,180100.44,2023-04-04,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80174,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68S-42,81,1929.55,156293.55,2022-10-07,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80175,VEN-505,Shimano Component Distributors,Karnataka,BK-T79Y-50,196,1554.4,304662.4,2023-05-30,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80176,VEN-504,Continental Tyre India,Uttar Pradesh,FR-M94B-44,64,839.05,53699.2,2023-04-12,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80177,VEN-502,Tata Precision Tubes,Jharkhand,FR-M94B-48,146,854.91,124816.86,2023-09-01,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80178,VEN-505,Shimano Component Distributors,Karnataka,CL-G201-L,175,10.59,1853.25,2022-11-02,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80179,VEN-504,Continental Tyre India,Uttar Pradesh,TI-9102,41,23.59,967.19,2023-10-20,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80180,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-T79Y-58,34,1539.62,52347.08,2024-03-07,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80181,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LK-7801,71,19.63,1393.73,2022-05-23,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80182,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M68B-46,120,1940.74,232888.8,2022-01-08,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80183,VEN-502,Tata Precision Tubes,Jharkhand,BK-M82S-44,130,1172.72,152453.6,2023-01-13,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80184,VEN-502,Tata Precision Tubes,Jharkhand,BK-T79Y-58,135,1453.43,196213.05,2024-10-06,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80185,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-52,149,2195.13,327074.37,2024-04-28,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80186,VEN-504,Continental Tyre India,Uttar Pradesh,LT-H902,142,19.86,2820.12,2023-09-04,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80187,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68B-42,162,1835.36,297328.32,2023-03-01,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80188,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68S-42,177,1836.89,325129.53,2023-11-18,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80189,VEN-505,Shimano Component Distributors,Karnataka,BR-4902,181,75.16,13603.96,2022-10-05,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80190,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-M,33,42.17,1391.61,2023-09-02,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80191,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-46,141,1938.99,273397.59,2024-06-08,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80192,VEN-505,Shimano Component Distributors,Karnataka,BK-M82S-48,136,1089.5,148172.0,2024-05-26,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80193,VEN-505,Shimano Component Distributors,Karnataka,BK-M68B-42,60,1749.56,104973.6,2024-05-30,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80194,VEN-502,Tata Precision Tubes,Jharkhand,LT-H902,150,21.63,3244.5,2023-01-26,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80195,VEN-504,Continental Tyre India,Uttar Pradesh,CS-9011,38,215.27,8180.26,2024-04-23,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80196,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,WH-5201,185,184.3,34095.5,2024-09-21,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80197,VEN-505,Shimano Component Distributors,Karnataka,FR-M94B-48,167,874.67,146069.89,2024-09-19,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80198,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-R93R-52,173,2255.55,390210.15,2023-06-12,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80199,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68S-42,100,1762.57,176257.0,2023-10-08,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80200,VEN-505,Shimano Component Distributors,Karnataka,FR-M94B-48,126,867.65,109323.9,2022-10-20,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80201,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,FR-M94B-48,53,864.36,45811.08,2022-09-19,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80202,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-K,53,12.21,647.13,2022-07-27,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80203,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-52,104,2171.44,225829.76,2022-08-02,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80204,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,FR-R92R-58,24,823.88,19773.12,2023-05-31,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80205,VEN-502,Tata Precision Tubes,Jharkhand,PU-3209,198,17.3,3425.4,2024-06-13,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80206,VEN-502,Tata Precision Tubes,Jharkhand,FR-M94B-44,200,883.15,176630.0,2024-12-23,Shipped,19,Microsoft AdventureWorks Purchasing Module
+PO-80207,VEN-502,Tata Precision Tubes,Jharkhand,BK-M82S-48,121,1132.36,137015.56,2023-11-30,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80208,VEN-505,Shimano Component Distributors,Karnataka,CL-J302-L,151,45.93,6935.43,2022-05-12,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80209,VEN-502,Tata Precision Tubes,Jharkhand,BK-T79Y-58,135,1464.68,197731.8,2023-02-24,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80210,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R93R-48,188,2151.89,404555.32,2023-11-07,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80211,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-K,32,12.69,406.08,2024-12-05,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80212,VEN-502,Tata Precision Tubes,Jharkhand,CS-9011,122,215.95,26345.9,2024-01-28,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80213,VEN-505,Shimano Component Distributors,Karnataka,BB-7421,26,45.93,1194.18,2024-03-12,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80214,VEN-505,Shimano Component Distributors,Karnataka,LK-7801,179,18.91,3384.89,2024-06-27,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80215,VEN-504,Continental Tyre India,Uttar Pradesh,FR-M94B-44,20,876.62,17532.4,2023-05-10,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80216,VEN-502,Tata Precision Tubes,Jharkhand,FR-M94B-44,50,787.6,39380.0,2024-03-19,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80217,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M82S-44,41,1084.26,44454.66,2024-05-04,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80218,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-T79Y-50,102,1432.02,146066.04,2024-05-07,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80219,VEN-504,Continental Tyre India,Uttar Pradesh,CL-B401-M,91,36.59,3329.69,2024-04-12,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80220,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,103,21.88,2253.64,2023-10-23,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80221,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-R,64,12.47,798.08,2022-07-24,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80222,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-42,33,1841.5,60769.5,2022-01-15,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80223,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-G201-L,155,11.86,1838.3,2024-04-29,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80224,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-R,126,12.68,1597.68,2022-05-27,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80225,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-T79Y-50,64,1535.18,98251.52,2022-11-12,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80226,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-R93R-52,170,2170.23,368939.1,2024-11-15,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80227,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M82S-44,71,1105.35,78479.85,2023-02-18,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80228,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68B-46,79,1952.56,154252.24,2024-11-15,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80229,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-R93R-52,25,2268.09,56702.25,2024-07-15,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80230,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68S-42,88,1797.29,158161.52,2023-09-03,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80231,VEN-505,Shimano Component Distributors,Karnataka,LT-T401,64,11.11,711.04,2022-05-05,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80232,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-R93R-48,77,2006.17,154475.09,2024-12-31,Pending,34,Microsoft AdventureWorks Purchasing Module
+PO-80233,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-R93R-52,88,2186.13,192379.44,2023-03-12,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80234,VEN-505,Shimano Component Distributors,Karnataka,LK-7801,175,19.44,3402.0,2022-05-16,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80235,VEN-505,Shimano Component Distributors,Karnataka,CL-J302-L,89,43.37,3859.93,2022-10-04,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80236,VEN-505,Shimano Component Distributors,Karnataka,BB-7421,73,43.64,3185.72,2022-08-13,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80237,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-G201-L,96,11.06,1061.76,2022-01-27,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80238,VEN-504,Continental Tyre India,Uttar Pradesh,FR-M94B-48,116,865.07,100348.12,2023-12-26,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80239,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-B401-M,166,36.55,6067.3,2022-01-30,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80240,VEN-502,Tata Precision Tubes,Jharkhand,CS-9011,106,224.1,23754.6,2022-02-08,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80241,VEN-505,Shimano Component Distributors,Karnataka,BK-M68S-42,188,2003.27,376614.76,2022-10-15,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80242,VEN-502,Tata Precision Tubes,Jharkhand,CS-9011,57,226.03,12883.71,2023-07-08,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80243,VEN-501,Hindalco Extrusions Ltd,Maharashtra,FR-R92R-58,110,929.44,102238.4,2022-07-04,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80244,VEN-502,Tata Precision Tubes,Jharkhand,TI-9102,91,24.48,2227.68,2024-12-02,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80245,VEN-502,Tata Precision Tubes,Jharkhand,BR-4902,30,74.54,2236.2,2022-11-11,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80246,VEN-504,Continental Tyre India,Uttar Pradesh,WB-1001,93,4.15,385.95,2024-08-22,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80247,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-B,188,12.56,2361.28,2022-08-21,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80248,VEN-504,Continental Tyre India,Uttar Pradesh,BB-7421,60,42.69,2561.4,2024-12-06,Pending,26,Microsoft AdventureWorks Purchasing Module
+PO-80249,VEN-502,Tata Precision Tubes,Jharkhand,WH-5201,121,186.95,22620.95,2024-11-30,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80250,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-T79Y-50,60,1410.52,84631.2,2024-05-10,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80251,VEN-502,Tata Precision Tubes,Jharkhand,BK-M82S-48,27,1135.51,30658.77,2024-05-29,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80252,VEN-505,Shimano Component Distributors,Karnataka,HL-U509-K,62,12.81,794.22,2023-07-28,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80253,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-G201-L,45,11.85,533.25,2023-03-06,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80254,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-42,123,1791.02,220295.46,2024-02-26,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80255,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-56,43,2274.7,97812.1,2024-01-31,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80256,VEN-501,Hindalco Extrusions Ltd,Maharashtra,WB-1001,58,4.03,233.74,2024-10-22,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80257,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-B,164,12.56,2059.84,2023-11-28,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80258,VEN-505,Shimano Component Distributors,Karnataka,BK-M68B-46,59,1804.28,106452.52,2024-05-10,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80259,VEN-502,Tata Precision Tubes,Jharkhand,FR-R92R-58,50,875.79,43789.5,2024-08-28,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80260,VEN-505,Shimano Component Distributors,Karnataka,BK-M68B-46,63,1802.42,113552.46,2022-11-07,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80261,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-48,129,2086.88,269207.52,2022-03-15,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80262,VEN-505,Shimano Component Distributors,Karnataka,PU-3209,191,17.09,3264.19,2022-04-24,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80263,VEN-504,Continental Tyre India,Uttar Pradesh,PU-3209,200,15.74,3148.0,2023-10-24,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80264,VEN-504,Continental Tyre India,Uttar Pradesh,LT-T401,100,11.53,1153.0,2024-10-13,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80265,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-52,135,2208.99,298213.65,2022-03-23,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80266,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-52,169,2015.88,340683.72,2023-12-24,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80267,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-48,114,2141.52,244133.28,2023-09-12,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80268,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M82S-48,160,1058.96,169433.6,2024-04-09,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80269,VEN-505,Shimano Component Distributors,Karnataka,CL-B401-M,125,35.97,4496.25,2024-06-26,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80270,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-46,122,1765.72,215417.84,2024-09-07,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80271,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,66,20.1,1326.6,2022-08-11,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80272,VEN-505,Shimano Component Distributors,Karnataka,BK-M68B-46,42,1881.17,79009.14,2023-11-15,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80273,VEN-505,Shimano Component Distributors,Karnataka,BK-T79Y-50,165,1488.03,245524.95,2022-11-13,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80274,VEN-505,Shimano Component Distributors,Karnataka,HL-U509-K,150,13.34,2001.0,2022-07-21,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80275,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-L,122,43.67,5327.74,2022-01-15,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80276,VEN-505,Shimano Component Distributors,Karnataka,BK-M68S-42,32,1872.06,59905.92,2022-08-31,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80277,VEN-502,Tata Precision Tubes,Jharkhand,CL-J302-M,170,44.65,7590.5,2022-10-28,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80278,VEN-505,Shimano Component Distributors,Karnataka,FR-R92R-58,90,928.73,83585.7,2023-04-04,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80279,VEN-504,Continental Tyre India,Uttar Pradesh,BR-4902,31,74.7,2315.7,2024-07-19,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80280,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LT-T401,103,11.76,1211.28,2024-10-02,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80281,VEN-504,Continental Tyre India,Uttar Pradesh,CL-G201-L,68,11.09,754.12,2023-04-07,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80282,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68B-42,133,1804.42,239987.86,2024-09-24,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80283,VEN-502,Tata Precision Tubes,Jharkhand,FR-M94B-48,102,818.38,83474.76,2022-07-25,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80284,VEN-501,Hindalco Extrusions Ltd,Maharashtra,WH-5201,193,191.97,37050.21,2024-06-20,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80285,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-56,142,2171.99,308422.58,2024-12-10,Pending,33,Microsoft AdventureWorks Purchasing Module
+PO-80286,VEN-502,Tata Precision Tubes,Jharkhand,CL-G201-L,91,10.97,998.27,2023-07-15,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80287,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-B401-M,46,39.76,1828.96,2023-03-05,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80288,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BR-4902,33,78.87,2602.71,2024-09-16,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80289,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M82S-44,185,1143.71,211586.35,2023-04-10,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80290,VEN-502,Tata Precision Tubes,Jharkhand,LT-H902,49,20.69,1013.81,2024-06-28,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80291,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R93R-52,169,2177.92,368068.48,2022-03-18,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80292,VEN-505,Shimano Component Distributors,Karnataka,PU-3209,56,15.68,878.08,2022-04-20,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80293,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-R,151,12.53,1892.03,2024-05-23,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80294,VEN-504,Continental Tyre India,Uttar Pradesh,RD-2309,79,70.21,5546.59,2022-02-20,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80295,VEN-504,Continental Tyre India,Uttar Pradesh,BR-4902,36,76.63,2758.68,2022-02-14,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80296,VEN-505,Shimano Component Distributors,Karnataka,WH-5201,75,188.44,14133.0,2024-09-09,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80297,VEN-502,Tata Precision Tubes,Jharkhand,BK-T79Y-54,169,1545.41,261174.29,2023-12-29,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80298,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M82S-48,189,1092.25,206435.25,2022-10-29,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80299,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,29,20.16,584.64,2023-03-03,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80300,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-B,184,12.31,2265.04,2023-09-16,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80301,VEN-502,Tata Precision Tubes,Jharkhand,BK-R50B-52,43,1048.34,45078.62,2023-09-07,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80302,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-R93R-52,180,2206.14,397105.2,2023-12-12,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80303,VEN-502,Tata Precision Tubes,Jharkhand,LK-7801,26,20.65,536.9,2024-03-07,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80304,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,RD-2309,140,69.23,9692.2,2024-02-27,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80305,VEN-502,Tata Precision Tubes,Jharkhand,BK-T79Y-54,181,1473.63,266727.03,2023-12-09,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80306,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-R93R-56,88,2206.67,194186.96,2024-09-24,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80307,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LK-7801,133,18.22,2423.26,2022-05-11,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80308,VEN-502,Tata Precision Tubes,Jharkhand,BK-M82S-48,151,1124.98,169871.98,2022-06-07,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80309,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-52,45,2061.92,92786.4,2023-08-11,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80310,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BB-7421,118,45.61,5381.98,2024-09-09,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80311,VEN-505,Shimano Component Distributors,Karnataka,CS-9011,197,221.24,43584.28,2023-02-21,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80312,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-46,171,1946.11,332784.81,2022-09-21,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80313,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,190,21.56,4096.4,2023-08-15,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80314,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-46,128,1983.46,253882.88,2022-11-07,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80315,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-46,67,1774.92,118919.64,2024-02-27,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80316,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-K,137,12.24,1676.88,2024-07-15,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80317,VEN-504,Continental Tyre India,Uttar Pradesh,LT-T401,131,12.53,1641.43,2024-04-27,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80318,VEN-502,Tata Precision Tubes,Jharkhand,WH-5201,81,176.88,14327.28,2024-03-18,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80319,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-T79Y-58,54,1494.39,80697.06,2022-09-20,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80320,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68S-42,73,1939.3,141568.9,2022-05-29,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80321,VEN-505,Shimano Component Distributors,Karnataka,FR-R92R-58,144,865.06,124568.64,2024-05-12,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80322,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-T79Y-50,135,1481.71,200030.85,2024-08-29,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80323,VEN-502,Tata Precision Tubes,Jharkhand,BR-4902,123,73.45,9034.35,2023-07-20,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80324,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M82S-48,82,1141.33,93589.06,2023-03-09,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80325,VEN-501,Hindalco Extrusions Ltd,Maharashtra,WB-1001,121,4.36,527.56,2023-09-15,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80326,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-T79Y-58,33,1384.58,45691.14,2024-02-11,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80327,VEN-502,Tata Precision Tubes,Jharkhand,CL-J302-L,117,42.68,4993.56,2022-09-20,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80328,VEN-505,Shimano Component Distributors,Karnataka,HL-U509-R,176,13.11,2307.36,2024-02-21,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80329,VEN-505,Shimano Component Distributors,Karnataka,BK-M82S-48,144,1128.02,162434.88,2023-01-10,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80330,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-R93R-56,175,2010.28,351799.0,2023-09-04,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80331,VEN-505,Shimano Component Distributors,Karnataka,WH-5201,65,188.07,12224.55,2022-01-06,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80332,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-R93R-52,89,2217.61,197367.29,2023-03-03,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80333,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LT-H902,56,20.28,1135.68,2024-09-12,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80334,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-42,140,1932.46,270544.4,2023-09-08,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80335,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-9011,90,218.06,19625.4,2024-01-10,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80336,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-B,94,13.02,1223.88,2024-09-14,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80337,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-R,49,12.48,611.52,2022-07-10,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80338,VEN-505,Shimano Component Distributors,Karnataka,WB-1001,152,4.12,626.24,2024-12-13,Shipped,16,Microsoft AdventureWorks Purchasing Module
+PO-80339,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-T79Y-58,94,1366.07,128410.58,2022-01-17,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80340,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CS-6583,146,113.74,16606.04,2024-06-21,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80341,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-B401-M,33,38.41,1267.53,2023-02-02,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80342,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-B401-M,35,35.45,1240.75,2022-04-16,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80343,VEN-505,Shimano Component Distributors,Karnataka,CL-J302-M,41,43.23,1772.43,2023-05-14,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80344,VEN-501,Hindalco Extrusions Ltd,Maharashtra,WH-5201,36,176.22,6343.92,2022-07-08,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80345,VEN-504,Continental Tyre India,Uttar Pradesh,LT-T401,181,11.2,2027.2,2022-12-16,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80346,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-L,160,44.07,7051.2,2022-06-08,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80347,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,101,20.96,2116.96,2024-12-10,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80348,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R93R-48,184,2152.25,396014.0,2024-04-12,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80349,VEN-502,Tata Precision Tubes,Jharkhand,LK-7801,82,20.6,1689.2,2023-02-10,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80350,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-B,65,13.24,860.6,2023-06-24,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80351,VEN-501,Hindalco Extrusions Ltd,Maharashtra,LT-H902,33,20.3,669.9,2022-03-10,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80352,VEN-502,Tata Precision Tubes,Jharkhand,CL-B401-M,105,39.79,4177.95,2024-06-03,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80353,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-46,55,1787.66,98321.3,2023-10-31,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80354,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-T79Y-50,59,1368.64,80749.76,2023-08-16,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80355,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68S-42,100,1777.78,177778.0,2022-07-31,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80356,VEN-505,Shimano Component Distributors,Karnataka,BK-M82S-44,44,1171.3,51537.2,2022-02-09,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80357,VEN-504,Continental Tyre India,Uttar Pradesh,CS-6583,152,106.23,16146.96,2023-02-26,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80358,VEN-502,Tata Precision Tubes,Jharkhand,BB-7421,28,47.32,1324.96,2022-03-18,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80359,VEN-505,Shimano Component Distributors,Karnataka,BK-T79Y-58,190,1397.3,265487.0,2023-01-13,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80360,VEN-504,Continental Tyre India,Uttar Pradesh,BK-T79Y-58,44,1548.49,68133.56,2022-02-26,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80361,VEN-505,Shimano Component Distributors,Karnataka,BK-M68S-42,49,1947.49,95427.01,2022-06-04,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80362,VEN-505,Shimano Component Distributors,Karnataka,BR-4902,77,78.1,6013.7,2023-03-05,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80363,VEN-502,Tata Precision Tubes,Jharkhand,BK-R50B-52,66,1068.18,70499.88,2024-01-15,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80364,VEN-502,Tata Precision Tubes,Jharkhand,BK-M82S-48,173,1065.37,184309.01,2023-05-14,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80365,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,TI-9102,75,23.51,1763.25,2022-09-16,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80366,VEN-504,Continental Tyre India,Uttar Pradesh,BR-4902,176,76.74,13506.24,2023-09-03,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80367,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-R50B-52,169,1067.48,180404.12,2023-06-25,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80368,VEN-502,Tata Precision Tubes,Jharkhand,BB-7421,33,45.79,1511.07,2022-12-23,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80369,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CS-6583,136,113.53,15440.08,2024-06-14,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80370,VEN-502,Tata Precision Tubes,Jharkhand,BB-7421,65,45.16,2935.4,2024-01-09,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80371,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LT-H902,105,21.7,2278.5,2022-07-08,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80372,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-B,164,13.47,2209.08,2023-11-12,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80373,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-K,114,13.37,1524.18,2022-11-19,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80374,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-48,126,2082.31,262371.06,2024-05-03,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80375,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-B,83,12.72,1055.76,2023-03-25,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80376,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M82S-48,133,1141.41,151807.53,2023-08-14,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80377,VEN-504,Continental Tyre India,Uttar Pradesh,LK-7801,190,18.82,3575.8,2023-10-13,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80378,VEN-505,Shimano Component Distributors,Karnataka,LT-T401,182,12.41,2258.62,2022-09-18,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80379,VEN-505,Shimano Component Distributors,Karnataka,TI-9102,59,23.46,1384.14,2023-05-27,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80380,VEN-504,Continental Tyre India,Uttar Pradesh,CL-J302-L,96,42.0,4032.0,2022-11-05,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80381,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M82S-48,185,1129.84,209020.4,2024-07-26,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80382,VEN-502,Tata Precision Tubes,Jharkhand,FR-R92R-58,89,848.12,75482.68,2023-10-26,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80383,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LT-T401,148,12.21,1807.08,2023-11-04,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80384,VEN-505,Shimano Component Distributors,Karnataka,BK-M68B-46,45,1843.2,82944.0,2024-04-25,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80385,VEN-502,Tata Precision Tubes,Jharkhand,RD-2309,171,68.61,11732.31,2024-08-21,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80386,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-52,44,2097.65,92296.6,2024-04-30,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80387,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-56,120,2250.76,270091.2,2022-07-27,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80388,VEN-502,Tata Precision Tubes,Jharkhand,WB-1001,27,4.0,108.0,2022-07-01,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80389,VEN-502,Tata Precision Tubes,Jharkhand,CL-J302-M,117,41.74,4883.58,2022-09-25,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80390,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-42,90,1878.49,169064.1,2022-07-15,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80391,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68B-46,118,1926.75,227356.5,2022-10-14,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80392,VEN-502,Tata Precision Tubes,Jharkhand,BK-T79Y-54,51,1551.99,79151.49,2022-09-27,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80393,VEN-502,Tata Precision Tubes,Jharkhand,BR-4902,121,74.1,8966.1,2024-06-24,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80394,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M82S-44,119,1150.86,136952.34,2022-12-03,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80395,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LT-H902,68,21.45,1458.6,2023-02-25,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80396,VEN-502,Tata Precision Tubes,Jharkhand,BR-4902,75,76.26,5719.5,2022-01-24,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80397,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-B401-M,190,35.5,6745.0,2022-06-13,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80398,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-K,165,12.82,2115.3,2023-08-22,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80399,VEN-504,Continental Tyre India,Uttar Pradesh,PU-3209,125,16.64,2080.0,2022-02-22,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80400,VEN-502,Tata Precision Tubes,Jharkhand,FR-M94B-48,76,848.31,64471.56,2023-11-05,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80401,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-K,63,12.63,795.69,2022-08-09,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80402,VEN-505,Shimano Component Distributors,Karnataka,BK-M68B-46,122,1937.65,236393.3,2022-08-21,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80403,VEN-505,Shimano Component Distributors,Karnataka,BB-7421,40,42.65,1706.0,2022-03-11,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80404,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BB-7421,141,46.89,6611.49,2023-03-18,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80405,VEN-504,Continental Tyre India,Uttar Pradesh,FR-M94B-48,156,869.8,135688.8,2023-07-15,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80406,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-9011,35,234.93,8222.55,2022-07-01,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80407,VEN-504,Continental Tyre India,Uttar Pradesh,FR-M94B-48,38,891.83,33889.54,2022-03-19,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80408,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-T79Y-50,22,1551.27,34127.94,2024-03-31,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80409,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-56,32,2237.07,71586.24,2022-02-21,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80410,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68S-42,155,1898.69,294296.95,2022-11-05,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80411,VEN-504,Continental Tyre India,Uttar Pradesh,BK-T79Y-54,159,1555.88,247384.92,2024-04-07,Completed,33,Microsoft AdventureWorks Purchasing Module
+PO-80412,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M68S-42,94,1794.93,168723.42,2023-05-20,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80413,VEN-502,Tata Precision Tubes,Jharkhand,CS-9011,104,215.84,22447.36,2024-10-24,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80414,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-48,101,2053.33,207386.33,2023-03-06,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80415,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-M,144,46.3,6667.2,2022-07-16,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80416,VEN-501,Hindalco Extrusions Ltd,Maharashtra,FR-M94B-48,35,790.82,27678.7,2024-02-22,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80417,VEN-504,Continental Tyre India,Uttar Pradesh,BK-T79Y-50,146,1385.72,202315.12,2022-06-26,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80418,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BR-4902,54,75.32,4067.28,2022-02-03,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80419,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M82S-48,162,1145.13,185511.06,2024-12-02,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80420,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-T79Y-54,156,1451.87,226491.72,2022-09-29,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80421,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,WH-5201,144,192.66,27743.04,2022-10-07,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80422,VEN-505,Shimano Component Distributors,Karnataka,FR-M94B-48,141,875.83,123492.03,2024-06-12,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80423,VEN-504,Continental Tyre India,Uttar Pradesh,HL-U509-K,129,12.35,1593.15,2023-08-27,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80424,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-56,183,2138.53,391350.99,2022-03-18,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80425,VEN-501,Hindalco Extrusions Ltd,Maharashtra,HL-U509-K,167,13.73,2292.91,2022-09-08,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80426,VEN-502,Tata Precision Tubes,Jharkhand,BK-M82S-44,109,1069.7,116597.3,2022-09-01,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80427,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-6583,105,107.37,11273.85,2022-06-18,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80428,VEN-504,Continental Tyre India,Uttar Pradesh,LK-7801,119,18.39,2188.41,2023-01-15,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80429,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-R,62,13.73,851.26,2023-11-22,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80430,VEN-504,Continental Tyre India,Uttar Pradesh,BR-4902,20,73.64,1472.8,2022-06-03,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80431,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-J302-L,139,44.81,6228.59,2022-05-14,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80432,VEN-505,Shimano Component Distributors,Karnataka,BB-7421,154,46.88,7219.52,2024-12-02,Shipped,23,Microsoft AdventureWorks Purchasing Module
+PO-80433,VEN-504,Continental Tyre India,Uttar Pradesh,RD-2309,165,71.66,11823.9,2024-11-03,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80434,VEN-502,Tata Precision Tubes,Jharkhand,BK-R93R-48,114,2027.5,231135.0,2022-03-04,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80435,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,LK-7801,109,20.63,2248.67,2024-07-13,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80436,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-B,149,12.54,1868.46,2024-01-16,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80437,VEN-502,Tata Precision Tubes,Jharkhand,PU-3209,136,15.51,2109.36,2022-06-26,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80438,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-B,113,12.08,1365.04,2024-04-09,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80439,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-M,189,41.65,7871.85,2022-02-16,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80440,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-T79Y-54,21,1553.49,32623.29,2023-04-01,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80441,VEN-505,Shimano Component Distributors,Karnataka,LT-T401,86,11.1,954.6,2023-01-04,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80442,VEN-505,Shimano Component Distributors,Karnataka,PU-3209,21,15.19,318.99,2022-07-30,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80443,VEN-504,Continental Tyre India,Uttar Pradesh,LT-T401,192,11.46,2200.32,2022-05-01,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80444,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CL-J302-L,157,42.22,6628.54,2022-10-05,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80445,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M82S-48,148,1133.08,167695.84,2023-01-29,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80446,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M82S-48,78,1049.19,81836.82,2022-10-14,Completed,14,Microsoft AdventureWorks Purchasing Module
+PO-80447,VEN-502,Tata Precision Tubes,Jharkhand,BK-R50B-52,92,997.31,91752.52,2022-11-14,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80448,VEN-504,Continental Tyre India,Uttar Pradesh,WH-5201,154,174.83,26923.82,2022-11-15,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80449,VEN-505,Shimano Component Distributors,Karnataka,BR-4902,20,75.01,1500.2,2022-03-07,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80450,VEN-505,Shimano Component Distributors,Karnataka,BB-7421,174,46.22,8042.28,2024-07-15,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80451,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-T79Y-50,83,1430.23,118709.09,2022-08-25,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80452,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,FR-M94B-44,133,884.5,117638.5,2023-10-15,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80453,VEN-505,Shimano Component Distributors,Karnataka,BK-T79Y-58,131,1419.1,185902.1,2022-01-16,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80454,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CL-J302-L,173,45.84,7930.32,2022-03-25,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80455,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68B-46,158,1750.4,276563.2,2022-09-19,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80456,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BR-4902,179,75.16,13453.64,2022-07-29,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80457,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,CS-6583,39,113.19,4414.41,2023-09-10,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80458,VEN-502,Tata Precision Tubes,Jharkhand,CL-B401-M,187,36.26,6780.62,2022-07-15,Completed,25,Microsoft AdventureWorks Purchasing Module
+PO-80459,VEN-505,Shimano Component Distributors,Karnataka,LT-T401,93,12.18,1132.74,2024-07-19,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80460,VEN-502,Tata Precision Tubes,Jharkhand,BK-M68S-42,41,1918.51,78658.91,2022-12-25,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80461,VEN-505,Shimano Component Distributors,Karnataka,FR-R92R-58,118,849.23,100209.14,2022-02-16,Completed,21,Microsoft AdventureWorks Purchasing Module
+PO-80462,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68B-46,138,1883.92,259980.96,2023-04-11,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80463,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BK-M82S-44,76,1148.16,87260.16,2022-07-19,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80464,VEN-504,Continental Tyre India,Uttar Pradesh,CS-9011,123,224.44,27606.12,2023-05-06,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80465,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,TI-9102,108,25.45,2748.6,2023-10-24,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80466,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BR-4902,159,79.97,12715.23,2022-02-12,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80467,VEN-505,Shimano Component Distributors,Karnataka,BK-M68B-42,174,1984.2,345250.8,2024-05-08,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80468,VEN-501,Hindalco Extrusions Ltd,Maharashtra,BR-4902,59,77.52,4573.68,2024-01-06,Completed,35,Microsoft AdventureWorks Purchasing Module
+PO-80469,VEN-505,Shimano Component Distributors,Karnataka,LK-7801,116,18.39,2133.24,2022-01-31,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80470,VEN-504,Continental Tyre India,Uttar Pradesh,TI-9102,137,23.31,3193.47,2024-05-10,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80471,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-B,31,12.17,377.27,2024-06-28,Completed,20,Microsoft AdventureWorks Purchasing Module
+PO-80472,VEN-502,Tata Precision Tubes,Jharkhand,PU-3209,43,17.17,738.31,2024-04-28,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80473,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-52,170,2251.32,382724.4,2023-09-05,Completed,11,Microsoft AdventureWorks Purchasing Module
+PO-80474,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-R,182,12.07,2196.74,2023-03-27,Completed,18,Microsoft AdventureWorks Purchasing Module
+PO-80475,VEN-502,Tata Precision Tubes,Jharkhand,CL-J302-M,177,44.99,7963.23,2024-03-27,Completed,30,Microsoft AdventureWorks Purchasing Module
+PO-80476,VEN-505,Shimano Component Distributors,Karnataka,LT-H902,88,20.62,1814.56,2023-08-29,Completed,34,Microsoft AdventureWorks Purchasing Module
+PO-80477,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R50B-52,22,1070.22,23544.84,2023-10-24,Completed,31,Microsoft AdventureWorks Purchasing Module
+PO-80478,VEN-502,Tata Precision Tubes,Jharkhand,CS-6583,84,106.73,8965.32,2022-10-16,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80479,VEN-505,Shimano Component Distributors,Karnataka,BK-M68B-42,90,1765.9,158931.0,2022-03-07,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80480,VEN-502,Tata Precision Tubes,Jharkhand,BR-4902,104,75.71,7873.84,2022-08-15,Completed,22,Microsoft AdventureWorks Purchasing Module
+PO-80481,VEN-505,Shimano Component Distributors,Karnataka,BK-T79Y-50,156,1428.5,222846.0,2023-11-02,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80482,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-46,64,1951.96,124925.44,2024-02-26,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80483,VEN-504,Continental Tyre India,Uttar Pradesh,BK-M68B-42,91,1786.76,162595.16,2022-11-29,Completed,24,Microsoft AdventureWorks Purchasing Module
+PO-80484,VEN-501,Hindalco Extrusions Ltd,Maharashtra,CS-6583,76,113.83,8651.08,2023-03-13,Completed,29,Microsoft AdventureWorks Purchasing Module
+PO-80485,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,RD-2309,66,71.21,4699.86,2024-01-05,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80486,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-T79Y-58,119,1406.98,167430.62,2024-12-11,Shipped,10,Microsoft AdventureWorks Purchasing Module
+PO-80487,VEN-502,Tata Precision Tubes,Jharkhand,LK-7801,67,20.55,1376.85,2024-03-14,Completed,32,Microsoft AdventureWorks Purchasing Module
+PO-80488,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-56,60,2025.59,121535.4,2024-06-25,Completed,19,Microsoft AdventureWorks Purchasing Module
+PO-80489,VEN-502,Tata Precision Tubes,Jharkhand,BK-T79Y-58,26,1421.56,36960.56,2022-09-26,Completed,23,Microsoft AdventureWorks Purchasing Module
+PO-80490,VEN-504,Continental Tyre India,Uttar Pradesh,BK-R50B-52,111,1091.74,121183.14,2022-09-02,Completed,28,Microsoft AdventureWorks Purchasing Module
+PO-80491,VEN-502,Tata Precision Tubes,Jharkhand,LT-H902,174,20.37,3544.38,2024-02-23,Completed,10,Microsoft AdventureWorks Purchasing Module
+PO-80492,VEN-504,Continental Tyre India,Uttar Pradesh,FR-R92R-58,110,910.84,100192.4,2022-09-16,Completed,16,Microsoft AdventureWorks Purchasing Module
+PO-80493,VEN-501,Hindalco Extrusions Ltd,Maharashtra,FR-R92R-58,148,828.65,122640.2,2022-11-18,Completed,27,Microsoft AdventureWorks Purchasing Module
+PO-80494,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,BK-M68B-42,58,1757.28,101922.24,2023-01-14,Completed,13,Microsoft AdventureWorks Purchasing Module
+PO-80495,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-48,167,2065.15,344880.05,2022-08-06,Completed,17,Microsoft AdventureWorks Purchasing Module
+PO-80496,VEN-502,Tata Precision Tubes,Jharkhand,HL-U509-B,145,13.06,1893.7,2023-04-08,Completed,12,Microsoft AdventureWorks Purchasing Module
+PO-80497,VEN-505,Shimano Component Distributors,Karnataka,BK-R93R-48,34,2179.97,74118.98,2022-01-05,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80498,VEN-505,Shimano Component Distributors,Karnataka,TI-9102,45,23.74,1068.3,2024-05-31,Completed,15,Microsoft AdventureWorks Purchasing Module
+PO-80499,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-K,199,12.87,2561.13,2023-07-30,Completed,26,Microsoft AdventureWorks Purchasing Module
+PO-80500,VEN-503,Sundram Fasteners Ltd,Tamil Nadu,HL-U509-R,20,13.27,265.4,2023-09-26,Completed,28,Microsoft AdventureWorks Purchasing Module

@@ -1,0 +1,94 @@
+{
+  "system_name": "AI-Powered Multi-Agent Enterprise Automation System",
+  "version": "2.4.0-Production",
+  "agents": [
+    {
+      "agent_name": "CEO Orchestrator",
+      "folder": "enterprise_database/ceo_orchestrator",
+      "allowed_tables": [
+        "executive_kpi_summary",
+        "asi_state_economic_health_index",
+        "strategic_initiatives_roadmap"
+      ],
+      "authority": "Cross-agent dispatch, strategic goal routing, final executive brief generation",
+      "read_access": [
+        "*"
+      ],
+      "write_access": [
+        "ceo_orchestrator/*"
+      ]
+    },
+    {
+      "agent_name": "Sales Intelligence Agent",
+      "folder": "enterprise_database/sales_agent",
+      "allowed_tables": [
+        "adventureworks_sales_orders",
+        "adventureworks_sales_order_details",
+        "adventureworks_b2b_customers",
+        "gov_udyam_msme_b2b_market_opportunity",
+        "gov_dgcis_commodity_export_demand",
+        "sales_forecasting_training_dataset"
+      ],
+      "authority": "B2B pipeline discovery, order analytics, revenue growth forecasting, regional opportunity ranking",
+      "read_access": [
+        "sales_agent/*",
+        "inventory_agent/adventureworks_product_inventory.csv"
+      ],
+      "write_access": [
+        "sales_agent/*"
+      ]
+    },
+    {
+      "agent_name": "HR Talent Intelligence Agent",
+      "folder": "enterprise_database/hr_agent",
+      "allowed_tables": [
+        "adventureworks_employees",
+        "adventureworks_departments",
+        "gov_asi_manufacturing_wage_benchmarks",
+        "gov_plfs_labour_productivity_rates"
+      ],
+      "authority": "Compensation parity evaluation against official ASI wage benchmarks, attrition prediction, head count management",
+      "read_access": [
+        "hr_agent/*"
+      ],
+      "write_access": [
+        "hr_agent/*"
+      ]
+    },
+    {
+      "agent_name": "Finance & Accounting Agent",
+      "folder": "enterprise_database/finance_agent",
+      "allowed_tables": [
+        "adventureworks_general_ledger",
+        "adventureworks_accounts_receivable",
+        "adventureworks_budget_vs_actuals",
+        "gov_gst_state_revenue_trends"
+      ],
+      "authority": "Accounts receivable aging, cashflow health audit, budget variance analysis, GST compliance tracking",
+      "read_access": [
+        "finance_agent/*",
+        "sales_agent/adventureworks_sales_orders.csv"
+      ],
+      "write_access": [
+        "finance_agent/*"
+      ]
+    },
+    {
+      "agent_name": "Inventory & Supply Chain Agent",
+      "folder": "enterprise_database/inventory_agent",
+      "allowed_tables": [
+        "adventureworks_product_inventory",
+        "adventureworks_purchase_orders",
+        "adventureworks_warehouse_movements",
+        "gov_asi_industrial_input_costs"
+      ],
+      "authority": "Safety stock monitoring, supplier lead-time optimization, automated reorder signaling",
+      "read_access": [
+        "inventory_agent/*"
+      ],
+      "write_access": [
+        "inventory_agent/*"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "model_architecture": "RandomForestRegressor(n_estimators=100, max_depth=12)",
+  "train_samples": 3650,
+  "test_samples": 1830,
+  "train_mae_usd": 16629.91,
+  "test_mae_usd": 41657.28,
+  "test_rmse_usd": 55760.86,
+  "test_r2_score": 0.0448,
+  "top_predictive_features": {
+    "state_gov_asi_share_pct": 0.24097743672964955,
+    "rolling_mean_30d": 0.19195912474597715,
+    "day_of_month": 0.11857750371865194,
+    "rolling_std_7d": 0.10364917181868019,
+    "month": 0.08667917527244098,
+    "rolling_mean_7d": 0.08640642351405745,
+    "lag_30d_revenue": 0.03072054631981429,
+    "day_of_week": 0.022850755936371377,
+    "state_gov_gst_share_pct": 0.021907218972373986,
+    "daily_revenue": 0.02164369754578953,
+    "lag_14d_revenue": 0.019409020266246083,
+    "quarter": 0.018624389024741655,
+    "lag_1d_revenue": 0.015453184280088662,
+    "lag_7d_revenue": 0.012553656509394003,
+    "daily_order_count": 0.00506325818067126,
+    "is_weekend": 0.0021840369166044264,
+    "is_quarter_end": 0.0013414002484475292
+  },
+  "evaluation_period": "2024-01-01 to 2024-12-31 (Out-of-Time Validation)"
+}

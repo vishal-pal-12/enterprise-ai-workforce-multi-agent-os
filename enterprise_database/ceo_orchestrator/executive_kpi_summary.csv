@@ -1,0 +1,13 @@
+fiscal_year,fiscal_quarter,period,net_revenue_usd,cogs_usd,gross_profit_usd,gross_margin_pct,total_orders_processed,active_headcount,inventory_turnover_ratio,customer_satisfaction_score,national_industrial_growth_benchmark_pct,source_type
+2022,Q1,2022-Q1,3691340.86,2438304.15,1253036.71,33.95,112,207,4.24,93.5,9.51,Executive Cross-Agent Aggregation Engine
+2022,Q2,2022-Q2,3925329.57,2589913.35,1335416.22,34.02,124,207,4.79,92.8,6.58,Executive Cross-Agent Aggregation Engine
+2022,Q3,2022-Q3,4313859.19,2840141.56,1473717.63,34.16,131,207,4.25,88.5,8.84,Executive Cross-Agent Aggregation Engine
+2022,Q4,2022-Q4,3974784.32,2612163.59,1362620.73,34.28,144,207,5.7,88.8,7.95,Executive Cross-Agent Aggregation Engine
+2023,Q1,2023-Q1,3941173.47,2579742.54,1361430.93,34.54,137,207,5.63,93.1,7.59,Executive Cross-Agent Aggregation Engine
+2023,Q2,2023-Q2,3953668.85,2619491.15,1334177.7,33.75,131,207,5.08,89.2,6.73,Executive Cross-Agent Aggregation Engine
+2023,Q3,2023-Q3,4122443.8,2747045.05,1375398.75,33.36,137,207,5.52,91.8,9.63,Executive Cross-Agent Aggregation Engine
+2023,Q4,2023-Q4,4283474.57,2796603.38,1486871.19,34.71,131,207,4.76,90.6,9.14,Executive Cross-Agent Aggregation Engine
+2024,Q1,2024-Q1,4945922.39,3292540.53,1653381.86,33.43,149,207,5.06,90.9,8.64,Executive Cross-Agent Aggregation Engine
+2024,Q2,2024-Q2,4169352.76,2787089.27,1382263.49,33.15,127,207,5.55,90.0,7.91,Executive Cross-Agent Aggregation Engine
+2024,Q3,2024-Q3,4517191.45,2971415.62,1545775.83,34.22,124,207,4.29,92.2,9.05,Executive Cross-Agent Aggregation Engine
+2024,Q4,2024-Q4,4403349.33,2926236.35,1477112.98,33.55,130,207,4.21,91.9,7.36,Executive Cross-Agent Aggregation Engine

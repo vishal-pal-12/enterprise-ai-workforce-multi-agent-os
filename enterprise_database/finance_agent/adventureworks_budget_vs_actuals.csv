@@ -1,0 +1,73 @@
+fiscal_year,fiscal_quarter,department_id,department_name,cost_center,budget_allocated_usd,actual_spend_usd,variance_amount_usd,variance_percentage,approval_status,source_system
+2023,Q1,DEP-101,Executive Leadership,CC-EXEC-01,13745110.1,15362502.59,1617392.49,11.77,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q1,DEP-102,Sales & Commercial Operations,CC-SALES-02,7464157.88,7495221.59,31063.71,0.42,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q1,DEP-103,Supply Chain & Logistics,CC-SCM-03,12659547.53,12196386.4,-463161.13,-3.66,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q1,DEP-104,Finance & Accounting,CC-FIN-04,11773226.76,12627085.14,853858.38,7.25,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q1,DEP-105,Human Resources & Talent,CC-HR-05,16399808.81,17750574.22,1350765.41,8.24,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q1,DEP-106,Engineering & R&D,CC-ENG-06,3885842.05,3620215.52,-265626.53,-6.84,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q1,DEP-107,Manufacturing Operations,CC-MFG-07,13696919.41,14215574.91,518655.5,3.79,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q1,DEP-108,Quality Assurance,CC-QA-08,10658012.11,11074076.71,416064.6,3.9,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q1,DEP-109,IT & Systems Architecture,CC-IT-09,6139340.13,6327258.4,187918.27,3.06,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-101,Executive Leadership,CC-EXEC-01,10576137.57,11268067.48,691929.91,6.54,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-102,Sales & Commercial Operations,CC-SALES-02,15047905.16,14776207.95,-271697.21,-1.81,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-103,Supply Chain & Logistics,CC-SCM-03,15271220.21,17003515.74,1732295.53,11.34,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-104,Finance & Accounting,CC-FIN-04,5189097.64,5442011.35,252913.71,4.87,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-105,Human Resources & Talent,CC-HR-05,17199508.48,16979087.54,-220420.94,-1.28,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-106,Engineering & R&D,CC-ENG-06,17253509.15,16095691.58,-1157817.57,-6.71,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-107,Manufacturing Operations,CC-MFG-07,10928204.6,12115718.25,1187513.65,10.87,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-108,Quality Assurance,CC-QA-08,14217971.8,14857761.48,639789.68,4.5,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q2,DEP-109,IT & Systems Architecture,CC-IT-09,3283871.51,3506908.84,223037.33,6.79,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-101,Executive Leadership,CC-EXEC-01,3265218.57,3175432.97,-89785.6,-2.75,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-102,Sales & Commercial Operations,CC-SALES-02,5919688.93,5971168.34,51479.41,0.87,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-103,Supply Chain & Logistics,CC-SCM-03,9082811.89,8796597.05,-286214.84,-3.15,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-104,Finance & Accounting,CC-FIN-04,8971004.59,8559044.73,-411959.86,-4.59,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-105,Human Resources & Talent,CC-HR-05,16700944.93,15447480.7,-1253464.23,-7.51,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-106,Engineering & R&D,CC-ENG-06,14727479.66,13791835.29,-935644.37,-6.35,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-107,Manufacturing Operations,CC-MFG-07,17768202.26,18743246.98,975044.72,5.49,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-108,Quality Assurance,CC-QA-08,9150885.02,8541033.12,-609851.9,-6.66,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q3,DEP-109,IT & Systems Architecture,CC-IT-09,15722267.51,17185120.82,1462853.31,9.3,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-101,Executive Leadership,CC-EXEC-01,11367217.88,12230694.03,863476.15,7.6,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-102,Sales & Commercial Operations,CC-SALES-02,16359006.75,18261208.21,1902201.46,11.63,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-103,Supply Chain & Logistics,CC-SCM-03,14421105.07,15709787.07,1288682.0,8.94,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-104,Finance & Accounting,CC-FIN-04,16013131.55,17650828.38,1637696.83,10.23,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-105,Human Resources & Talent,CC-HR-05,5914463.68,6616520.19,702056.51,11.87,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-106,Engineering & R&D,CC-ENG-06,15879044.31,14889071.47,-989972.84,-6.23,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-107,Manufacturing Operations,CC-MFG-07,17681911.61,18675212.99,993301.38,5.62,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-108,Quality Assurance,CC-QA-08,17176603.61,18119060.43,942456.82,5.49,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2023,Q4,DEP-109,IT & Systems Architecture,CC-IT-09,13996068.73,12899804.23,-1096264.5,-7.83,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-101,Executive Leadership,CC-EXEC-01,11999530.56,12232788.66,233258.1,1.94,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-102,Sales & Commercial Operations,CC-SALES-02,5643446.47,5697470.73,54024.26,0.96,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-103,Supply Chain & Logistics,CC-SCM-03,10309491.73,11502778.25,1193286.52,11.57,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-104,Finance & Accounting,CC-FIN-04,3967299.57,4113716.37,146416.8,3.69,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-105,Human Resources & Talent,CC-HR-05,4434275.77,4353061.77,-81214.0,-1.83,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-106,Engineering & R&D,CC-ENG-06,12842622.65,13372776.7,530154.05,4.13,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-107,Manufacturing Operations,CC-MFG-07,9852747.75,9868890.26,16142.51,0.16,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-108,Quality Assurance,CC-QA-08,15884472.45,16671194.85,786722.4,4.95,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q1,DEP-109,IT & Systems Architecture,CC-IT-09,14240755.7,13397263.8,-843491.9,-5.92,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-101,Executive Leadership,CC-EXEC-01,15090564.43,15172478.42,81913.99,0.54,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-102,Sales & Commercial Operations,CC-SALES-02,13196226.27,12399949.12,-796277.15,-6.03,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-103,Supply Chain & Logistics,CC-SCM-03,10176213.86,10172404.86,-3809.0,-0.04,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-104,Finance & Accounting,CC-FIN-04,16418100.31,17265937.74,847837.43,5.16,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-105,Human Resources & Talent,CC-HR-05,10911738.65,12129904.64,1218165.99,11.16,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-106,Engineering & R&D,CC-ENG-06,8842089.17,8552400.26,-289688.91,-3.28,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-107,Manufacturing Operations,CC-MFG-07,10943577.67,12051181.69,1107604.02,10.12,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-108,Quality Assurance,CC-QA-08,12834907.5,11871197.94,-963709.56,-7.51,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q2,DEP-109,IT & Systems Architecture,CC-IT-09,13795000.62,13785377.95,-9622.67,-0.07,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-101,Executive Leadership,CC-EXEC-01,14527021.03,15223970.24,696949.21,4.8,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-102,Sales & Commercial Operations,CC-SALES-02,9628298.69,9631222.08,2923.39,0.03,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-103,Supply Chain & Logistics,CC-SCM-03,11677930.34,11173619.96,-504310.38,-4.32,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-104,Finance & Accounting,CC-FIN-04,9199958.67,9280648.24,80689.57,0.88,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-105,Human Resources & Talent,CC-HR-05,15377439.06,15730747.14,353308.08,2.3,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-106,Engineering & R&D,CC-ENG-06,11333077.62,11985379.13,652301.51,5.76,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-107,Manufacturing Operations,CC-MFG-07,9436967.08,9431459.75,-5507.33,-0.06,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-108,Quality Assurance,CC-QA-08,17218836.48,19248973.45,2030136.97,11.79,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q3,DEP-109,IT & Systems Architecture,CC-IT-09,7535402.07,7214787.76,-320614.31,-4.25,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-101,Executive Leadership,CC-EXEC-01,16710038.84,17385881.03,675842.19,4.04,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-102,Sales & Commercial Operations,CC-SALES-02,16325855.45,16775716.64,449861.19,2.76,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-103,Supply Chain & Logistics,CC-SCM-03,11942540.65,12094926.4,152385.75,1.28,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-104,Finance & Accounting,CC-FIN-04,11502092.6,11138252.64,-363839.96,-3.16,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-105,Human Resources & Talent,CC-HR-05,7428862.12,7630125.81,201263.69,2.71,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-106,Engineering & R&D,CC-ENG-06,4601475.42,4547544.66,-53930.76,-1.17,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-107,Manufacturing Operations,CC-MFG-07,9887628.47,10015877.31,128248.84,1.3,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-108,Quality Assurance,CC-QA-08,9224428.68,10284373.63,1059944.95,11.49,Approved,Microsoft AdventureWorks Corporate Financial Planning
+2024,Q4,DEP-109,IT & Systems Architecture,CC-IT-09,15457160.88,15395894.65,-61266.23,-0.4,Approved,Microsoft AdventureWorks Corporate Financial Planning

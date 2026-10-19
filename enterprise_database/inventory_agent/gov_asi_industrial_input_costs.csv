@@ -1,0 +1,25 @@
+reporting_year,nic_code,industry_sector,raw_material_cost_index,industrial_power_cost_index,logistics_freight_index,source_authority
+2021-2022,28,Machinery and Equipment n.e.c.,103.91,101.09,99.48,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2021-2022,29,"Motor Vehicles, Trailers and Semi-Trailers",99.65,101.23,100.55,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2021-2022,30,Other Transport Equipment (Bicycles & Components),102.41,99.7,101.07,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2021-2022,25,Fabricated Metal Products,101.34,99.19,99.07,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2021-2022,26,"Computer, Electronic and Optical Products",101.86,100.52,100.15,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2021-2022,27,Electrical Equipment,102.18,100.63,98.8,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2021-2022,22,Rubber and Plastics Products,99.1,101.15,98.45,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2021-2022,13,Manufacture of Textiles and Technical Apparel,99.35,102.43,97.87,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2022-2023,28,Machinery and Equipment n.e.c.,106.98,104.03,104.98,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2022-2023,29,"Motor Vehicles, Trailers and Semi-Trailers",106.7,105.92,104.83,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2022-2023,30,Other Transport Equipment (Bicycles & Components),105.73,105.12,102.97,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2022-2023,25,Fabricated Metal Products,106.9,105.28,105.71,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2022-2023,26,"Computer, Electronic and Optical Products",109.18,104.01,104.76,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2022-2023,27,Electrical Equipment,107.83,103.96,102.94,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2022-2023,22,Rubber and Plastics Products,109.03,106.15,106.53,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2022-2023,13,Manufacture of Textiles and Technical Apparel,105.5,104.64,107.94,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2023-2024,28,Machinery and Equipment n.e.c.,112.22,112.24,109.27,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2023-2024,29,"Motor Vehicles, Trailers and Semi-Trailers",111.54,111.57,112.48,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2023-2024,30,Other Transport Equipment (Bicycles & Components),114.93,112.26,112.17,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2023-2024,25,Fabricated Metal Products,114.62,110.19,109.44,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2023-2024,26,"Computer, Electronic and Optical Products",112.33,109.73,110.8,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2023-2024,27,Electrical Equipment,114.29,109.83,110.16,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2023-2024,22,Rubber and Plastics Products,115.7,110.46,112.82,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
+2023-2024,13,Manufacture of Textiles and Technical Apparel,114.73,111.65,109.92,data.gov.in / Ministry of Commerce & Industry Wholesale Price Index (WPI) & ASI
