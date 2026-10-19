@@ -1,0 +1,10 @@
+commodity,sector,export_value_usd_million,growth_rate_pct,reporting_year,currency,source
+Engineering Goods,Manufacturing,109320.5,8.4,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export
+Petroleum Products,Energy & Petrochemicals,86510.2,-4.2,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export
+Gems and Jewellery,Luxury & Handicrafts,32800.0,-9.8,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export
+Drugs and Pharmaceuticals,Healthcare & Biotech,27850.4,9.6,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export
+Electronic Goods,Electronics & Hardware,29120.8,23.6,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export
+Organic and Inorganic Chemicals,Chemicals,28430.1,-3.1,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export
+Readymade Garments of all Textiles,Textiles & Apparel,14500.6,-10.2,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export
+Agricultural Products & Marine,Agri-business,31200.0,4.1,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export
+Software & IT-Enabled Services,Information Technology,195000.0,12.8,2023-2024,USD_MILLION,data.gov.in/catalog/principal-commodity-wise-export

@@ -1,0 +1,28 @@
+state,district,enterprise_type,registered_units,reporting_year,source
+Maharashtra,Mumbai,Micro,142500,2023-2024,data.gov.in/resource/udyam
+Maharashtra,Mumbai,Small,38200,2023-2024,data.gov.in/resource/udyam
+Maharashtra,Mumbai,Medium,4120,2023-2024,data.gov.in/resource/udyam
+Maharashtra,Pune,Micro,118400,2023-2024,data.gov.in/resource/udyam
+Maharashtra,Pune,Small,29600,2023-2024,data.gov.in/resource/udyam
+Maharashtra,Pune,Medium,3540,2023-2024,data.gov.in/resource/udyam
+Gujarat,Ahmedabad,Micro,125300,2023-2024,data.gov.in/resource/udyam
+Gujarat,Ahmedabad,Small,34100,2023-2024,data.gov.in/resource/udyam
+Gujarat,Ahmedabad,Medium,3890,2023-2024,data.gov.in/resource/udyam
+Gujarat,Surat,Micro,98200,2023-2024,data.gov.in/resource/udyam
+Gujarat,Surat,Small,24500,2023-2024,data.gov.in/resource/udyam
+Gujarat,Surat,Medium,2180,2023-2024,data.gov.in/resource/udyam
+Tamil Nadu,Chennai,Micro,112000,2023-2024,data.gov.in/resource/udyam
+Tamil Nadu,Chennai,Small,28400,2023-2024,data.gov.in/resource/udyam
+Tamil Nadu,Chennai,Medium,3100,2023-2024,data.gov.in/resource/udyam
+Tamil Nadu,Coimbatore,Micro,87400,2023-2024,data.gov.in/resource/udyam
+Tamil Nadu,Coimbatore,Small,22100,2023-2024,data.gov.in/resource/udyam
+Tamil Nadu,Coimbatore,Medium,2450,2023-2024,data.gov.in/resource/udyam
+Karnataka,Bengaluru Urban,Micro,138900,2023-2024,data.gov.in/resource/udyam
+Karnataka,Bengaluru Urban,Small,36500,2023-2024,data.gov.in/resource/udyam
+Karnataka,Bengaluru Urban,Medium,4410,2023-2024,data.gov.in/resource/udyam
+Uttar Pradesh,Gautam Buddha Nagar,Micro,76500,2023-2024,data.gov.in/resource/udyam
+Uttar Pradesh,Gautam Buddha Nagar,Small,19400,2023-2024,data.gov.in/resource/udyam
+Uttar Pradesh,Gautam Buddha Nagar,Medium,1820,2023-2024,data.gov.in/resource/udyam
+Kerala,Ernakulam,Micro,54200,2023-2024,data.gov.in/resource/udyam
+Kerala,Ernakulam,Small,11300,2023-2024,data.gov.in/resource/udyam
+Kerala,Ernakulam,Medium,980,2023-2024,data.gov.in/resource/udyam

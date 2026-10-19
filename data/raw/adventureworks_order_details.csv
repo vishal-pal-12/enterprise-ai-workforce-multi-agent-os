@@ -1,0 +1,16 @@
+sales_order_id,product_id,product_name,product_category,unit_price_usd,order_qty,line_total_usd,unit_cost_usd
+SO-71001,BK-M68B-42,"Mountain-100 Black, 42",Bikes,2499.0,4,9996.0,1898.0
+SO-71001,HL-U509-R,"Sport-100 Helmet, Red",Accessories,34.99,68,2379.32,13.08
+SO-71002,BK-R93R-48,"Road-150 Red, 48",Bikes,3578.27,6,21469.62,2171.29
+SO-71003,FR-M94B-44,"ML Mountain Frame-W - Black, 44",Components,1364.5,30,40935.0,850.0
+SO-71004,BK-T79Y-54,"Touring-1000 Yellow, 54",Bikes,2384.07,7,16688.49,1481.93
+SO-71005,CS-6583,LL Crankset,Components,175.49,70,12284.3,113.22
+SO-71006,BK-R93R-48,"Road-150 Red, 48",Bikes,3578.27,10,35782.7,2171.29
+SO-72001,BK-M68B-42,"Mountain-100 Black, 42",Bikes,2499.0,7,17493.0,1898.0
+SO-72002,BK-R93R-48,"Road-150 Red, 48",Bikes,3578.27,8,28626.16,2171.29
+SO-72003,FR-M94B-44,"ML Mountain Frame-W - Black, 44",Components,1364.5,45,61402.5,850.0
+SO-72004,HL-U509-R,"Sport-100 Helmet, Red",Accessories,34.99,200,6998.0,13.08
+SO-72005,CS-6583,LL Crankset,Components,175.49,35,6142.15,113.22
+SO-72006,BK-T79Y-54,"Touring-1000 Yellow, 54",Bikes,2384.07,10,23840.7,1481.93
+SO-72007,BK-R93R-48,"Road-150 Red, 48",Bikes,3578.27,14,50095.78,2171.29
+SO-72008,BK-M68B-42,"Mountain-100 Black, 42",Bikes,2499.0,8,19992.0,1898.0

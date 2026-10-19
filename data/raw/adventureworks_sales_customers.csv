@@ -1,0 +1,9 @@
+customer_id,company_name,contact_name,email,region,city,industry_category,annual_revenue,order_count,total_spend_usd,last_order_days_ago,account_health,source
+AW-1001,Apex Manufacturing Ltd,Rajesh Sharma,rajesh.sharma@apex-mfg.in,Maharashtra,Pune,Industrial Equipment,14500000,48,384000.0,18,Active,Microsoft AdventureWorks OLTP
+AW-1002,Western Precision Components,Kavita Patel,kavita.patel@westernprecision.in,Gujarat,Ahmedabad,Automotive & Heavy Eng,21000000,62,612000.0,42,Active,Microsoft AdventureWorks OLTP
+AW-1003,Deccan Electronics Infra,Manoj Hegde,manoj.hegde@deccanelec.in,Karnataka,Bengaluru,Semiconductors & Tech Hardware,34000000,89,1280000.0,11,Active,Microsoft AdventureWorks OLTP
+AW-1004,Coromandel Engineering Works,Suresh Subramaniam,suresh.subramaniam@coromandel-eng.in,Tamil Nadu,Coimbatore,Industrial Equipment,11200000,31,245000.0,95,At Risk,Microsoft AdventureWorks OLTP
+AW-1005,Avadh Precision Tools,Amitabh Srivastava,amitabh.srivastava@avadhprecision.in,Uttar Pradesh,Noida,Tooling & Fabrication,8900000,19,142000.0,130,Churn Risk,Microsoft AdventureWorks OLTP
+AW-1006,Malabar Marine & Agro Exports,Biju Varghese,biju.varghese@malabaragro.in,Kerala,Kochi,Agri-business & Processing,17800000,54,490000.0,26,Active,Microsoft AdventureWorks OLTP
+AW-1007,Sahyadri Auto Systems,Sunil Deshmukh,sunil.deshmukh@sahyadri-auto.in,Maharashtra,Mumbai,Automotive & Heavy Eng,28400000,76,890000.0,8,Active,Microsoft AdventureWorks OLTP
+AW-1008,Surat Diamond & Machinery Tech,Bhavesh Mehta,bhavesh.mehta@suratmachinery.in,Gujarat,Surat,Tooling & Fabrication,19500000,41,375000.0,67,Prospect,Microsoft AdventureWorks OLTP

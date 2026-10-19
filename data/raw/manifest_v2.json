@@ -1,0 +1,33 @@
+{
+  "datasets": [
+    {
+      "dataset_id": "adventureworks_sales",
+      "name": "Microsoft AdventureWorks Enterprise Sales & B2B Customer Database",
+      "type": "Enterprise Relational OLTP Dataset",
+      "file": "adventureworks_sales_customers.csv",
+      "records": 8,
+      "granularity": "Customer / Enterprise Firm Level",
+      "key_metrics": [
+        "AnnualRevenue",
+        "OrderCount",
+        "TotalSpendUSD",
+        "LastOrderDaysAgo",
+        "AccountHealth"
+      ]
+    },
+    {
+      "dataset_id": "asi_manufacturing",
+      "name": "Annual Survey of Industries (ASI) Manufacturing Statistics",
+      "type": "Official Government Open Data (MOSPI/data.gov.in)",
+      "file": "asi_industry_manufacturing_benchmark.csv",
+      "records": 8,
+      "granularity": "State / Sector Level",
+      "key_metrics": [
+        "TotalFactories",
+        "OutputCroreINR",
+        "TotalEmployment",
+        "ReportingYear"
+      ]
+    }
+  ]
+}

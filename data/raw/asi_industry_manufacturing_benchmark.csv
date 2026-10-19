@@ -1,0 +1,9 @@
+state,sector,total_factories,output_crore_inr,total_employment,reporting_year,source
+Maharashtra,Automotive & Heavy Eng,4820,285400.0,420000,2023-2024,data.gov.in/ASI-MOSPI
+Maharashtra,Industrial Equipment,3610,194200.0,298000,2023-2024,data.gov.in/ASI-MOSPI
+Gujarat,Automotive & Heavy Eng,4150,268900.0,385000,2023-2024,data.gov.in/ASI-MOSPI
+Gujarat,Tooling & Fabrication,3980,154600.0,242000,2023-2024,data.gov.in/ASI-MOSPI
+Karnataka,Semiconductors & Tech Hardware,2890,312000.0,510000,2023-2024,data.gov.in/ASI-MOSPI
+Tamil Nadu,Industrial Equipment,3420,181500.0,310000,2023-2024,data.gov.in/ASI-MOSPI
+Uttar Pradesh,Tooling & Fabrication,2180,92400.0,165000,2023-2024,data.gov.in/ASI-MOSPI
+Kerala,Agri-business & Processing,1740,68200.0,128000,2023-2024,data.gov.in/ASI-MOSPI

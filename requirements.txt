@@ -1,0 +1,17 @@
+fastapi==0.143.3
+uvicorn==0.54.0
+pydantic==2.14.1
+pydantic-settings==2.16.0
+sqlalchemy==2.1.5
+psycopg2-binary==2.9.13
+pandas==2.3.3
+numpy==2.3.5
+langchain==1.4.6
+langchain-core==1.6.12
+langchain-community==0.4.2
+langchain-google-genai==4.4.2
+langchain-openai==1.7.2
+streamlit==1.55.0
+requests==2.32.5
+pytest==9.1.1
+python-dotenv==1.2.3

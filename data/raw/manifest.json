@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-10-18T08:08:07.491442+00:00",
+  "sources": [
+    {
+      "dataset_id": "udyam_msme",
+      "name": "List of MSME Registered Units under Udyam",
+      "official_url": "https://www.data.gov.in/resource/list-msme-registered-units-under-udyam",
+      "catalog_url": "https://kerala.data.gov.in/catalog/udyam-registration-msme-registration",
+      "local_file": "udyam_msme_registered_units.csv",
+      "reporting_period": "2023-2024",
+      "granularity": "State / District / Enterprise Type",
+      "units": "Registered Units Count",
+      "is_synthetic_seed": true,
+      "license": "Government Open Data License - India (GODL)",
+      "limitations": "Aggregated registration count; does not infer company revenue, profitability, or direct buyer intent."
+    },
+    {
+      "dataset_id": "commodity_export",
+      "name": "Principal Commodity-Wise Export Statistics",
+      "official_url": "https://data.gov.in/catalog/principal-commodity-wise-export",
+      "local_file": "principal_commodity_wise_export.csv",
+      "reporting_period": "2023-2024",
+      "granularity": "National / Commodity / Sector",
+      "units": "USD Million",
+      "is_synthetic_seed": true,
+      "license": "Government Open Data License - India (GODL)",
+      "limitations": "National level aggregates. Cannot be directly joined at district/firm level without sector mapping."
+    }
+  ]
+}
