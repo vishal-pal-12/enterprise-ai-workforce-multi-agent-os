@@ -30,54 +30,68 @@ def send_live_smtp_email(recipient_email: str, subject: str, response_body: str)
     from dotenv import load_dotenv
     load_dotenv(override=True)
     import os
+    import smtplib
+    import ssl
+    from email.mime.text import MIMEText
+    from email.mime.multipart import MIMEMultipart
     
-    host = os.getenv("SMTP_HOST", "smtp.gmail.com")
-    port = int(os.getenv("SMTP_PORT", "587"))
+    host = os.getenv("SMTP_HOST", "smtp.gmail.com").strip()
     user = os.getenv("SMTP_USER", "").strip()
-    password = os.getenv("SMTP_PASSWORD", "").strip()
+    raw_pass = os.getenv("SMTP_PASSWORD", "").strip()
+    # Google App Passwords often have spaces (e.g. 'abcd efgh ijkl mnop') -> strip spaces
+    clean_pass = raw_pass.replace(" ", "")
     from_addr = os.getenv("EMAIL_FROM", user if user else "sales-intelligence@enterprise.internal").strip()
 
-    if not user or not password:
+    if not user or not clean_pass:
         return {
             "success": False,
             "error": "SMTP_USER or SMTP_PASSWORD not configured. Please supply your Gmail address and 16-character App Password.",
             "note": "Credentials required for direct Gmail inbox delivery."
         }
 
+    mail = MIMEMultipart()
+    mail["From"] = from_addr
+    mail["To"] = recipient_email
+    mail["Subject"] = subject
+    mail.attach(MIMEText(response_body, "plain"))
+
+    # Attempt 1: Port 587 (STARTTLS)
     try:
-        import smtplib
-        from email.mime.text import MIMEText
-        from email.mime.multipart import MIMEMultipart
-
-        mail = MIMEMultipart()
-        mail["From"] = from_addr
-        mail["To"] = recipient_email
-        mail["Subject"] = subject
-        mail.attach(MIMEText(response_body, "plain"))
-
-        with smtplib.SMTP(host, port, timeout=12) as s:
+        with smtplib.SMTP(host, 587, timeout=10) as s:
             s.starttls()
-            s.login(user, password)
+            s.login(user, clean_pass)
             s.send_message(mail)
-
         return {
             "success": True,
             "error": None,
-            "note": f"Successfully delivered live email to {recipient_email} via {host}:{port}."
+            "note": f"Successfully delivered live email to {recipient_email} via {host}:587 (TLS)."
         }
-    except Exception as e:
-        err_msg = str(e)
-        user_tip = f"SMTP handshake/authentication failed: {err_msg}"
-        if "534" in err_msg or "Application-specific password required" in err_msg or "Username and Password not accepted" in err_msg or "BadCredentials" in err_msg:
-            user_tip = (
-                "Google requires a 16-character App Password (not your regular account password). "
-                "Generate one at: https://myaccount.google.com/apppasswords -> select 'App Passwords' -> create name 'EnterpriseOS' -> copy the 16 letters."
-            )
-        return {
-            "success": False,
-            "error": err_msg,
-            "note": user_tip
-        }
+    except Exception as e_587:
+        # Attempt 2: Port 465 (SSL Direct)
+        try:
+            context = ssl.create_default_context()
+            with smtplib.SMTP_SSL(host, 465, context=context, timeout=10) as s:
+                s.login(user, clean_pass)
+                s.send_message(mail)
+            return {
+                "success": True,
+                "error": None,
+                "note": f"Successfully delivered live email to {recipient_email} via {host}:465 (SSL)."
+            }
+        except Exception as e_465:
+            err_msg = str(e_465) or str(e_587)
+            user_tip = f"SMTP Authentication Rejected: {err_msg}"
+            if "10053" in err_msg or "534" in err_msg or "Application-specific password required" in err_msg or "BadCredentials" in err_msg or "Username and Password not accepted" in err_msg:
+                user_tip = (
+                    "Google rejected the connection because a regular Gmail password was used. "
+                    "Google strictly requires a 16-character App Password for 2FA accounts. "
+                    "Quick Fix: Go to https://myaccount.google.com/apppasswords, generate a 16-letter App Password, and paste it into SMTP_PASSWORD."
+                )
+            return {
+                "success": False,
+                "error": err_msg,
+                "note": user_tip
+            }
 
 @tool
 def dispatch_executive_response_email(recipient_email: str, subject: str, response_body: str) -> str:
